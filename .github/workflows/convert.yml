@@ -1,0 +1,35 @@
+name: Atom to RSS Converter
+
+on:
+  schedule:
+    # 6時間おきに実行 (UTC: 0, 6, 12, 18時)
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # 手動実行も可能
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run converter
+        run: python convert.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.rss
+          # 差分がある場合のみコミット
+          git diff --cached --quiet || git commit -m "Update RSS feed $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
