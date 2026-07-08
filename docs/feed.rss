@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 09:57:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:38:43 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年7月9日ごろ 金星とレグルスが大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14239_ph260709</link>
+      <description>2026年7月上旬から中旬ごろ、夕方から宵の西の低空で金星としし座の1等星レグルスが大接近する。最接近は7月9日ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14239_ph260709</guid>
+      <pubDate>Thu, 09 Jul 2026 11:38:43 +0000</pubDate>
+    </item>
     <item>
       <title>「はやぶさ2」が小惑星トリフネへのフライバイに成功</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14568_hayabusa2</link>
@@ -63,13 +70,6 @@
       <description>マイクロクエーサー「SS 433」のX線ジェットが遠いところで再増光を見せる現象について、ジェットが星間分子雲に衝突し、周囲の磁場が強められたことに起因すると考えられることが、野辺山45m電波望遠鏡の観測から明らかになった。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14559_ss433</guid>
       <pubDate>Thu, 02 Jul 2026 10:44:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年7月9日ごろ 金星とレグルスが大接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14239_ph260709</link>
-      <description>2026年7月上旬から中旬ごろ、夕方から宵の西の低空で金星としし座の1等星レグルスが大接近する。最接近は7月9日ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14239_ph260709</guid>
-      <pubDate>Thu, 02 Jul 2026 09:16:36 +0000</pubDate>
     </item>
     <item>
       <title>星ナビ8月号は「夏のおでかけダイアリー」と「ネットワークカメラで火球をゲット」</title>
