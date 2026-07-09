@@ -6,14 +6,21 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 11:38:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:43:02 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>宇宙の夜明けに輝いた最古の超大質量ブラックホールを発見</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14569_quasar</link>
+      <description>宇宙望遠鏡「ユークリッド」とすばる望遠鏡などの観測から、初期宇宙に存在する31個のクエーサーが発見された。宇宙誕生から約6.7億年後に存在する、観測史上最古のクエーサーも含まれる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14569_quasar</guid>
+      <pubDate>Thu, 09 Jul 2026 10:43:02 +0000</pubDate>
+    </item>
     <item>
       <title>2026年7月9日ごろ 金星とレグルスが大接近</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14239_ph260709</link>
       <description>2026年7月上旬から中旬ごろ、夕方から宵の西の低空で金星としし座の1等星レグルスが大接近する。最接近は7月9日ごろ。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14239_ph260709</guid>
-      <pubDate>Thu, 09 Jul 2026 11:38:43 +0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 10:28:43 +0000</pubDate>
     </item>
     <item>
       <title>「はやぶさ2」が小惑星トリフネへのフライバイに成功</title>
@@ -288,13 +295,6 @@
       <description>2026年6月17日の夕方から宵、西北西の低空で細い月と木星が接近し、細い月と金星が並ぶ。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14234_ph260617</guid>
       <pubDate>Wed, 10 Jun 2026 09:10:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>世界初、オリオン座分子雲の進化地図</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14527_omc</link>
-      <description>野辺山45m電波望遠鏡による重水素の観測をもとにした、オリオン座分子雲の進化地図が作成された。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14527_omc</guid>
-      <pubDate>Tue, 09 Jun 2026 10:55:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
