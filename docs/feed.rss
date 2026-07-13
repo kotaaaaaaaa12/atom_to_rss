@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 00:58:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 09:57:48 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>【特集】ペルセウス座流星群（2026年）</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14575</link>
+      <description>一番の見ごろは8月12日の深夜から13日の明け方にかけて。月明かりの影響が全くない好条件で、空が暗いところでは1時間に30～40個くらい見えそうです。安全やマナーに気をつけて、ぜひ星空を見上げ、流れ星を待ってみてください。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14575</guid>
+      <pubDate>Mon, 13 Jul 2026 09:57:48 +0000</pubDate>
+    </item>
     <item>
       <title>SHARPSTARの大口径カセグレン式アストログラフ「SCA310」が新発売</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14563_SCA310</link>
@@ -63,13 +70,6 @@
       <description>絵本『よぞらの おまつり』の制作にステラナビゲータが使われた。制作陣の星空づくりに迫る。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14565_omatsuri</guid>
       <pubDate>Mon, 06 Jul 2026 09:51:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年7月4日ごろ 火星と天王星が大接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14238_ph260704</link>
-      <description>2026年6月下旬から7月中旬ごろ、未明から明け方の東北東の低空で火星と天王星が大接近する。最接近は7月4日ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14238_ph260704</guid>
-      <pubDate>Fri, 03 Jul 2026 14:47:13 +0000</pubDate>
     </item>
     <item>
       <title>中性子星に流れ込むガスをX線で「CTスキャン」</title>
@@ -140,6 +140,13 @@
       <description>日本でも低緯度オーロラが見られた2024年5月10日の巨大磁気嵐で、地球近傍の宇宙空間で酸素イオンが急増する未知の現象が起こっていたことが明らかになった。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14551_magneticstorm</guid>
       <pubDate>Fri, 26 Jun 2026 10:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年7月4日ごろ 火星と天王星が大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14238_ph260704</link>
+      <description>2026年6月下旬から7月中旬ごろ、未明から明け方の東北東の低空で火星と天王星が大接近する。最接近は7月4日ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14238_ph260704</guid>
+      <pubDate>Fri, 26 Jun 2026 09:11:03 +0000</pubDate>
     </item>
     <item>
       <title>「はやぶさ2」が小惑星トリフネを初撮影</title>
