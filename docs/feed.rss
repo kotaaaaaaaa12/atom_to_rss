@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 09:57:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:23:37 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>たて座に赤い新星が出現</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14576_nova_sct</link>
+      <description>7月8日、たて座に約17等級の新星が出現した。星間赤化の影響を受け、暗く赤い天体としてとらえられている。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14576_nova_sct</guid>
+      <pubDate>Mon, 13 Jul 2026 10:23:37 +0000</pubDate>
+    </item>
     <item>
       <title>【特集】ペルセウス座流星群（2026年）</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14575</link>
