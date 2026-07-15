@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 10:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:30:46 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>明るめの矮新星ペルセウス座GKの増光が始まった</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14578_gk_per</link>
+      <description>およそ10等級まで明るくなる矮新星のペルセウス座GKが、約4年ぶりに増光を開始した。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14578_gk_per</guid>
+      <pubDate>Wed, 15 Jul 2026 10:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>タムロンから、小型軽量な超広角ズームレンズ「12-20mm F2.8」が新発売</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14573_TAMRON12-20mm</link>
+      <description>タムロンが、フルサイズミラーレス一眼対応のソニー Eマウント用、ニコン Zマウント用大口径超広角ズームレンズ「12-20mm F2.8（Model A084）」を発表。発売は8月27日。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14573_TAMRON12-20mm</guid>
+      <pubDate>Wed, 15 Jul 2026 08:45:39 +0000</pubDate>
+    </item>
     <item>
       <title>一般相対性理論が予言する銀河中心ガス円盤の歳差運動の兆候を観測</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14570_ngc4395</link>
@@ -281,13 +295,6 @@
       <description>全天で最も明るい炭素星「しし座CW星」と2番目に明るい「CIT 6」の観測データの比較から、炭素星の分子形成プロセスに共通性があり、中心星の紫外線により分子存在量が抑えられることなどがわかった</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14536_carbonstar</guid>
       <pubDate>Tue, 16 Jun 2026 10:39:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>双子星は磁場の効果で近づく</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14535_binaries</link>
-      <description>ガスの運動と磁場の効果を取り入れた連星系のコンピューターシミュレーションから、磁場の効果によって軌道が縮み、天体同士が近づいていくことが示された。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14535_binaries</guid>
-      <pubDate>Mon, 15 Jun 2026 10:32:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
