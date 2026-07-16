@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 11:15:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 12:23:43 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年7月17日 細い月と金星が接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14240_ph260717</link>
+      <description>2026年7月17日の夕方から宵、西の低空で細い月と金星が接近する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14240_ph260717</guid>
+      <pubDate>Fri, 17 Jul 2026 12:23:43 +0000</pubDate>
+    </item>
     <item>
       <title>多様な有機分子を含む「星のゆりかご」を超新星残骸で初めて発見</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14574_hotcore</link>
@@ -77,13 +84,6 @@
       <description>中国の探査機「天問2号」が、サンプルリターンを目指す小惑星カモオーレバへのランデブーに成功し、今月2日に約20kmの距離からその姿を撮影した。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14571_tianwen2</guid>
       <pubDate>Fri, 10 Jul 2026 10:48:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年7月17日 細い月と金星が接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14240_ph260717</link>
-      <description>2026年7月17日の夕方から宵、西の低空で細い月と金星が接近する。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14240_ph260717</guid>
-      <pubDate>Fri, 10 Jul 2026 09:16:40 +0000</pubDate>
     </item>
     <item>
       <title>宇宙の夜明けに輝いた最古の超大質量ブラックホールを発見</title>
