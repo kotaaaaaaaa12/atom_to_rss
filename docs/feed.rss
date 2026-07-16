@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 09:13:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 11:15:54 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>多様な有機分子を含む「星のゆりかご」を超新星残骸で初めて発見</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14574_hotcore</link>
+      <description>複雑な有機分子や水などの分子を含む「星のゆりかご」が超新星残骸で初めて見つかった。超新星爆発が起こっても複雑な有機分子が生き残れる可能性を示唆する観測結果だ。 </description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14574_hotcore</guid>
+      <pubDate>Thu, 16 Jul 2026 11:15:54 +0000</pubDate>
+    </item>
     <item>
       <title>2026年7月24日 ジュノーがわし座で衝</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14547_ph260724</link>
@@ -86,13 +93,6 @@
       <pubDate>Thu, 09 Jul 2026 10:43:02 +0000</pubDate>
     </item>
     <item>
-      <title>2026年7月9日ごろ 金星とレグルスが大接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14239_ph260709</link>
-      <description>2026年7月上旬から中旬ごろ、夕方から宵の西の低空で金星としし座の1等星レグルスが大接近する。最接近は7月9日ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14239_ph260709</guid>
-      <pubDate>Thu, 09 Jul 2026 10:28:43 +0000</pubDate>
-    </item>
-    <item>
       <title>「はやぶさ2」が小惑星トリフネへのフライバイに成功</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14568_hayabusa2</link>
       <description>小惑星探査機「はやぶさ2」が拡張ミッションの最初の目標である小惑星トリフネへのフライバイに成功し、「雪だるま」のようなトリフネの姿をとらえた。</description>
@@ -140,6 +140,13 @@
       <description>マイクロクエーサー「SS 433」のX線ジェットが遠いところで再増光を見せる現象について、ジェットが星間分子雲に衝突し、周囲の磁場が強められたことに起因すると考えられることが、野辺山45m電波望遠鏡の観測から明らかになった。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14559_ss433</guid>
       <pubDate>Thu, 02 Jul 2026 10:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年7月9日ごろ 金星とレグルスが大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14239_ph260709</link>
+      <description>2026年7月上旬から中旬ごろ、夕方から宵の西の低空で金星としし座の1等星レグルスが大接近する。最接近は7月9日ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14239_ph260709</guid>
+      <pubDate>Thu, 02 Jul 2026 09:16:36 +0000</pubDate>
     </item>
     <item>
       <title>星ナビ8月号は「夏のおでかけダイアリー」と「ネットワークカメラで火球をゲット」</title>
@@ -288,20 +295,6 @@
       <description>7月5日に小惑星「トリフネ」へのフライバイを行う「はやぶさ2」が接近前のイオンエンジン運転を完了した。フライバイ時刻は日本時間18時30分の予定だ。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14539_hayabusa2</guid>
       <pubDate>Wed, 17 Jun 2026 09:59:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>アルテミスIIミッションで撮影の日食画像から太陽コロナの構造を解析</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14537_corona</link>
-      <description>半世紀ぶりの有人月ミッション「アルテミスII」で宇宙飛行士が撮影した日食画像の解析から、太陽の周りに広がる「Fコロナ」の構造が明らかになった。科学観測ではない画像を用いたユニークな研究成果だ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14537_corona</guid>
-      <pubDate>Tue, 16 Jun 2026 11:12:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>死にゆく「炭素星」の化学組成</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14536_carbonstar</link>
-      <description>全天で最も明るい炭素星「しし座CW星」と2番目に明るい「CIT 6」の観測データの比較から、炭素星の分子形成プロセスに共通性があり、中心星の紫外線により分子存在量が抑えられることなどがわかった</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14536_carbonstar</guid>
-      <pubDate>Tue, 16 Jun 2026 10:39:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
