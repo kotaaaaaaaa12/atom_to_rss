@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 09:36:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:57:25 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>「ステファンの五つ子」が持つ、星を生みやすいガス、生みにくいガス</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14577_stephan</link>
+      <description>有名な銀河群「ステファンの五つ子」の電波観測から、この天体の分子ガスの3D分布がわかった。場所によって、新たな星が生まれやすい領域と生まれにくい領域があるようだ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14577_stephan</guid>
+      <pubDate>Tue, 21 Jul 2026 10:57:25 +0000</pubDate>
+    </item>
     <item>
       <title>天文書評＆新刊情報『三鷹の森 全集』『星からさん』など5冊</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14583</link>
