@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 10:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 09:46:54 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>突発現象をとらえる、すばる望遠鏡の新分光器「NINJA」が始動</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14581_ninja</link>
+      <description>すばる望遠鏡に新たな近赤外線分光器「NINJA（ニンジャ）」が設置され、初の試験観測が行われる。重力波源などの突発天体や宇宙初期の遠方銀河の観測に活躍しそうだ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14581_ninja</guid>
+      <pubDate>Wed, 22 Jul 2026 09:46:54 +0000</pubDate>
+    </item>
     <item>
       <title>「ステファンの五つ子」が持つ、星を生みやすいガス、生みにくいガス</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14577_stephan</link>
@@ -267,20 +274,6 @@
       <description>全天カメラと日本の観測衛星「あらせ」によってリング状に拡がる脈動オーロラがとらえられ、磁気圏でのプラズマの変動がオーロラの変化に表れていることがわかった。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14543_aurora</guid>
       <pubDate>Tue, 23 Jun 2026 10:20:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>天文書評＆新刊情報『太陽系賛歌』『宇宙でラーメンは食べられるか』など6冊</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14546</link>
-      <description>星ナビ2026年6月号「ほんナビ」で紹介の6冊：📖LIFTOFF📖REENTRY📖太陽系賛歌📖宇宙でラーメンは食べられるか📖宇宙飛行士を支える医師📖宇宙にヒトは住めるのか</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14546</guid>
-      <pubDate>Mon, 22 Jun 2026 09:29:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年6月29日ごろ 火星とプレアデス星団が接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14237_ph260629</link>
-      <description>2026年6月下旬から7月上旬ごろ、未明から明け方の東北東の低空で火星とおうし座のプレアデス星団が接近する。最接近は6月29日ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14237_ph260629</guid>
-      <pubDate>Mon, 22 Jun 2026 09:14:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
