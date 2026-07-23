@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 09:46:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:07:37 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>「星の卵」を形づくる物質の速度差から星の誕生に迫る</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14579_l1544</link>
+      <description>原始星のもととなる分子雲ガスで、イオンと中性分子の運動速度に差が検出された。ガスの収縮とともに磁場が抜けていく現象が星形成の鍵となることを示唆している。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14579_l1544</guid>
+      <pubDate>Thu, 23 Jul 2026 10:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>【レポート】プラネタリウムで江戸前寿司？プラネターリアム銀河座30周年記念投影</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14586_gingaza</link>
+      <description>東京都葛飾区の「プラネターリアム銀河座」で7月18日、開館30周年を記念した特別投影「寿司と宇宙と場所」が開催された。プラネタリウムで宇宙に思いを巡らせたあと、板前が握る本格江戸前寿司を味わうという、一風変わった組み合わせの企画に、多くの来場者が集まった。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14586_gingaza</guid>
+      <pubDate>Thu, 23 Jul 2026 09:49:56 +0000</pubDate>
+    </item>
     <item>
       <title>突発現象をとらえる、すばる望遠鏡の新分光器「NINJA」が始動</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14581_ninja</link>
@@ -267,13 +281,6 @@
       <description>金星（夕方～宵）、火星（未明～明け方）、土星（深夜～明け方）／4日ごろ未明～明け方：火星と天王星が大接近／9日ごろ夕方～宵：金星とレグルスが大接近／17日夕方～宵：細い月と金星が接近／28日：冥王星がやぎ座で衝</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14552</guid>
       <pubDate>Wed, 24 Jun 2026 09:47:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>リング状に拡がりながらまたたくオーロラをとらえた</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14543_aurora</link>
-      <description>全天カメラと日本の観測衛星「あらせ」によってリング状に拡がる脈動オーロラがとらえられ、磁気圏でのプラズマの変動がオーロラの変化に表れていることがわかった。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14543_aurora</guid>
-      <pubDate>Tue, 23 Jun 2026 10:20:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
