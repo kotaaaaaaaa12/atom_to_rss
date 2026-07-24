@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 09:20:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 10:21:28 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>南極隕石からDNA・RNAの材料分子が全て見つかった</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14582_meteorite</link>
+      <description>南極で見つかった炭素質隕石から、生命の材料である5種類の核酸塩基が全て検出された。落下から約10万年間、地球の核酸塩基が混入していないことも確認された。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14582_meteorite</guid>
+      <pubDate>Fri, 24 Jul 2026 10:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【特集】夏休み 天体観察ガイド（2026年）</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14592</link>
+      <description>初級者向けの、この夏おすすめの天体観察を一挙に紹介。夏休みは夜ふかしがしやすく寒さの心配もいらない、一年でいちばん気軽に星空を楽しめる時期です。空が暗いところでは天の川が肉眼で見え、双眼鏡で星雲・星団の観察もできます。今年はペルセウス座流星群も好条件！</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14592</guid>
+      <pubDate>Fri, 24 Jul 2026 09:53:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026年7月24日 ジュノーがわし座で衝</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14547_ph260724</link>
@@ -288,20 +302,6 @@
 </description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14554_SkyExplorer_telescope</guid>
       <pubDate>Thu, 25 Jun 2026 09:56:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ニュートリノを生成、110億年前の星形成銀河「シャドウ・ブラスター」</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14544_shadowblaster</link>
-      <description>アルマ望遠鏡などの観測により、高エネルギーニュートリノ事象の対応天体が初期宇宙の星形成銀河であることが示された。コンパクトな高密度環境が「天然の粒子加速器」として機能しニュートリノを生成しているとみられる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14544_shadowblaster</guid>
-      <pubDate>Wed, 24 Jun 2026 10:23:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年7月の星空ガイド</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14552</link>
-      <description>金星（夕方～宵）、火星（未明～明け方）、土星（深夜～明け方）／4日ごろ未明～明け方：火星と天王星が大接近／9日ごろ夕方～宵：金星とレグルスが大接近／17日夕方～宵：細い月と金星が接近／28日：冥王星がやぎ座で衝</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14552</guid>
-      <pubDate>Wed, 24 Jun 2026 09:47:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
