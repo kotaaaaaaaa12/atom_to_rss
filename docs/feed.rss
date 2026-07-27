@@ -6,8 +6,29 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 10:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 09:06:06 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>サイトロンジャパンが「志賀高原天空フェス 2026」に協力・出展 </title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14587_shigakogenHOSHIfes</link>
+      <description>サイトロンジャパンは、8月8日（土）/ 9 日（日）、8月15日（土）/ 16日（日）に、長野県志賀高原・横手山で開催される星空イベント「志賀高原天空フェス 2026」で天体観望会などを実施する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14587_shigakogenHOSHIfes</guid>
+      <pubDate>Mon, 27 Jul 2026 09:06:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>見掛視界65°超えのハイエンド広視界双眼鏡「SIGHTRON SV632ED SWA」新発売</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14580_SV632ED_SWA</link>
+      <description>サイトロンジャパンは、見掛視界 70°を超える広視界且つ、EDレンズ採用によりクリアできわめてシャープな高解像を実現した双眼鏡「SIGHTRON SV632 ED SWA」を7月24日に発売した。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14580_SV632ED_SWA</guid>
+      <pubDate>Mon, 27 Jul 2026 08:42:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>円周魚眼と対角魚眼の両方に対応  APS-C、MFTセンサー用ズームフィッシュアイレンズ</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14560_LAOWA_ZoomFisheye</link>
+      <description>サイトロンジャパンは、1本で円周魚眼と対角魚眼の2種類を自在に使い分けられるズーム式フィッシュアイレンズ「LAOWA 4.5-10mm F2.8 CF Zoom Fisheye」の受注を7月24日に開始。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14560_LAOWA_ZoomFisheye</guid>
+      <pubDate>Mon, 27 Jul 2026 08:24:55 +0000</pubDate>
+    </item>
     <item>
       <title>南極隕石からDNA・RNAの材料分子が全て見つかった</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14582_meteorite</link>
@@ -245,13 +266,6 @@
       <description>「スーパーカミオカンデ」の18年分のデータ解析から、過去の宇宙で起こった超新星爆発のニュートリノが地球に届いている兆候が初めて得られた。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14558_neutrino</guid>
       <pubDate>Mon, 29 Jun 2026 09:56:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>天体望遠鏡「スカイエクスプローラー」SE5赤道儀とオプションが新発売</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14556_SE5</link>
-      <description>ケンコー・トキナーの天体望遠鏡「スカイエクスプローラー」シリーズのSE5赤道儀と極軸望遠鏡セットおよび2軸モータードライブが新発売。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14556_SE5</guid>
-      <pubDate>Sat, 27 Jun 2026 07:24:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
