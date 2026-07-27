@@ -6,12 +6,19 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 09:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 11:45:30 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
     <item>
-      <title>サイトロンジャパンが「志賀高原天空フェス 2026」に協力・出展 </title>
+      <title>リュウグウと彗星の中間タイプの「暗い」小惑星</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14584_darkasteroids</link>
+      <description>リュウグウと彗星の中間タイプの暗い小惑星が複数見つかった。太陽系初期の微惑星が分化して両方の組成が生まれ、それを共通の母天体とすることで、各々の特徴を示す小惑星が形成されたのかもしれない。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14584_darkasteroids</guid>
+      <pubDate>Mon, 27 Jul 2026 11:45:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>サイトロンジャパンが「志賀高原天空フェス 2026」に協力・出展</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14587_shigakogenHOSHIfes</link>
-      <description>サイトロンジャパンは、8月8日（土）/ 9 日（日）、8月15日（土）/ 16日（日）に、長野県志賀高原・横手山で開催される星空イベント「志賀高原天空フェス 2026」で天体観望会などを実施する。</description>
+      <description>サイトロンジャパンは、8月8日（土）/ 9日（日）、8月15日（土）/ 16日（日）に、長野県志賀高原・横手山で開催される星空イベント「志賀高原天空フェス 2026」で天体観望会などを実施する。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14587_shigakogenHOSHIfes</guid>
       <pubDate>Mon, 27 Jul 2026 09:06:06 +0000</pubDate>
     </item>
