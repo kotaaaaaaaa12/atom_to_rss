@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 10:39:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 10:35:44 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>Ia型超新星爆発を引き起こす原始ブラックホールの兆候を解明</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14593_snia</link>
+      <description>原始ブラックホールが引き金となって爆発したIa型超新星が、いくつかの超新星残骸や近傍のIa型超新星の特性を説明できることや、天の川銀河の恒星の化学組成の傾向を説明できることが理論研究で示された。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14593_snia</guid>
+      <pubDate>Wed, 29 Jul 2026 10:35:44 +0000</pubDate>
+    </item>
     <item>
       <title>超新星は宇宙の巨大粒子加速器「ペバトロン」になりえるか</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14591_pevatron</link>
@@ -273,13 +280,6 @@
       <description>天の川銀河中心のブラックホール「いて座 A*」が約30分と50分の時間スケールで光度変動を起こしたデータが見つかった。2つの「ホットスポット」が公転しながらエネルギーを失うことで生じた現象かもしれない。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14557_hotspot</guid>
       <pubDate>Tue, 30 Jun 2026 10:22:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>スーパーカミオカンデが超新星背景ニュートリノの兆候をとらえた</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14558_neutrino</link>
-      <description>「スーパーカミオカンデ」の18年分のデータ解析から、過去の宇宙で起こった超新星爆発のニュートリノが地球に届いている兆候が初めて得られた。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14558_neutrino</guid>
-      <pubDate>Mon, 29 Jun 2026 09:56:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
