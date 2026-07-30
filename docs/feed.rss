@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 10:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 10:27:43 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>ベンヌから太陽系最初期の岩石を発見、リュウグウと共通の特徴</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14595_bennu</link>
+      <description>小惑星ベンヌの試料から、45億6730万年前に形成された太陽系最古のものを含む、太陽系最初期の岩石状物質が複数見つかった。リュウグウの試料と共通した特徴があり、ともに太陽系遠方で似た材料から形成された可能性がある。 </description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14595_bennu</guid>
+      <pubDate>Thu, 30 Jul 2026 10:27:43 +0000</pubDate>
+    </item>
     <item>
       <title>Ia型超新星爆発を引き起こす原始ブラックホールの兆候を解明</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14593_snia</link>
@@ -273,13 +280,6 @@
       <description>星空を楽しむための月刊「星ナビ」2026年8月号は7月3日（金）発売です。付録「夏のおでかけダイアリー」で夏の星空を120%楽しもう！特集は好条件のペルセウス座流星群前にチェックしたい「ネットワークカメラで火球をゲット」です。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14564_hoshinavi</guid>
       <pubDate>Wed, 01 Jul 2026 09:52:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>銀河中心の光度変動は2つのホットスポットの公転で説明できる</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14557_hotspot</link>
-      <description>天の川銀河中心のブラックホール「いて座 A*」が約30分と50分の時間スケールで光度変動を起こしたデータが見つかった。2つの「ホットスポット」が公転しながらエネルギーを失うことで生じた現象かもしれない。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14557_hotspot</guid>
-      <pubDate>Tue, 30 Jun 2026 10:22:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
