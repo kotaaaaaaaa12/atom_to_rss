@@ -6,14 +6,28 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 09:44:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 14:44:04 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
     <item>
       <title>2026年7月31日 みずがめ座δ南流星群が極大</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14549_ph260731</link>
       <description>2026年7月31日、みずがめ座δ南流星群の活動が極大となる。31日深夜から8月1日明け方が見ごろ。やぎ座α流星群の活動も同タイミングで極大となる。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14549_ph260731</guid>
-      <pubDate>Fri, 31 Jul 2026 09:44:04 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 14:44:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>「はやぶさ2」、トリフネ表面からわずか400mをかすめた</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14603_hayabusa2</link>
+      <description>「はやぶさ2」による小惑星トリフネへのフライバイで、探査機がトリフネ表面から約400mの距離を通過し、太陽系天体フライバイでの最小距離記録を更新したことがわかった。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14603_hayabusa2</guid>
+      <pubDate>Fri, 31 Jul 2026 10:41:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>公式ブログ：【ステライメージ10】星雲の画像処理 – M42（オリオン座大星雲）</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14602_blog</link>
+      <description>ステライメージ10を使い、M42（オリオン座大星雲）の画像処理手順を詳しく解説。白飛びや淡い部分の階調調整、色彩調整など、他の星雲にも応用できる画像処理の基本プロセスを7つのステップでご紹介します。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14602_blog</guid>
+      <pubDate>Fri, 31 Jul 2026 10:09:44 +0000</pubDate>
     </item>
     <item>
       <title>2026年8月2日 水星が西方最大離角</title>
