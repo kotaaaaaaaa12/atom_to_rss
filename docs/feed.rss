@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Sun, 02 Aug 2026 04:28:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 10:26:43 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>星ナビ9月号は「『宇宙兄弟』完結」と「ペルセ群を見る・撮る」</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14604_hoshinavi</link>
+      <description>星空を楽しむための月刊「星ナビ」2026年9月号は8月5日（水）発売です。漫画「宇宙兄弟」がついに完結！名シーンの裏側を監修者に突撃。今年のペルセウス座流星群は好条件。観測方法と撮り方をまとめてチェック！</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14604_hoshinavi</guid>
+      <pubDate>Mon, 03 Aug 2026 10:26:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>ブラックホール周辺の衝撃波による粒子加速を解明</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14599_acceleration</link>
+      <description>大規模シミュレーションによる研究から、超大質量ブラックホール周辺の衝撃波で陽子が効率的に加速され、近傍の活動銀河から観測されているニュートリノを説明し得ることが示された。 </description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14599_acceleration</guid>
+      <pubDate>Mon, 03 Aug 2026 09:56:14 +0000</pubDate>
+    </item>
     <item>
       <title>天体撮影用ニュートン式反射望遠鏡 Askar「N160」発売</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14597_AskarN160</link>
