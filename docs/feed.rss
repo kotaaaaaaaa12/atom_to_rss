@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 05 Aug 2026 09:13:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:13:23 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>天文シミュレーションソフト「ステラナビゲータ」のモバイル版「ステラナビゲータ・モバイル」リリース</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14606_stlnav-mobile</link>
+      <description>長年にわたり多くの天文ファンに支持されてきた天文シミュレーションソフト「ステラナビゲータ」のモバイル版「ステラナビゲータ・モバイル（StellaNavigator Mobile）」を8月4日（火）にリリースしました。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14606_stlnav-mobile</guid>
+      <pubDate>Wed, 05 Aug 2026 10:13:23 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月13日 皆既日食（アイスランド、スペインなど）</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14243_ph260813</link>
