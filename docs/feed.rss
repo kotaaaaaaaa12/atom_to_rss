@@ -6,14 +6,35 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 14:13:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:12:20 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
     <item>
       <title>2026年8月12日 細い月と水星、木星が接近</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14242_ph260812</link>
       <description>2026年8月12日の明け方、東北東の低空で細い月と水星、木星が接近する。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14242_ph260812</guid>
-      <pubDate>Mon, 10 Aug 2026 14:13:56 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 10:12:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月13日 ペルセウス座流星群が極大</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14244_ph260813</link>
+      <description>2026年8月13日、三大流星群の一つに数えられるペルセウス座流星群の活動が極大となる。8月12日の深夜から13日の明け方が見ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14244_ph260813</guid>
+      <pubDate>Wed, 12 Aug 2026 09:43:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月13日 皆既日食（アイスランド、スペインなど）</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14243_ph260813</link>
+      <description>2026年8月13日（日本時間、現地時間では12日）、アイスランド、スペインなどで皆既日食が見られる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14243_ph260813</guid>
+      <pubDate>Wed, 12 Aug 2026 09:33:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月19日 伝統的七夕</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14248_ph260819</link>
+      <description>2026年の伝統的七夕（旧七夕）は8月19日。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14248_ph260819</guid>
+      <pubDate>Wed, 12 Aug 2026 09:17:16 +0000</pubDate>
     </item>
     <item>
       <title>おうし座に新星が出現、99年ぶり</title>
@@ -58,13 +79,6 @@
       <pubDate>Thu, 06 Aug 2026 09:17:35 +0000</pubDate>
     </item>
     <item>
-      <title>2026年8月13日 ペルセウス座流星群が極大</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14244_ph260813</link>
-      <description>2026年8月13日、三大流星群の一つに数えられるペルセウス座流星群の活動が極大となる。8月12日の深夜から13日の明け方が見ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14244_ph260813</guid>
-      <pubDate>Thu, 06 Aug 2026 09:15:04 +0000</pubDate>
-    </item>
-    <item>
       <title>天文シミュレーションソフト「ステラナビゲータ」のモバイル版「ステラナビゲータ・モバイル」リリース</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14606_stlnav-mobile</link>
       <description>長年にわたり多くの天文ファンに支持されてきた天文シミュレーションソフト「ステラナビゲータ」のモバイル版「ステラナビゲータ・モバイル（StellaNavigator Mobile）」を8月4日（火）にリリースしました。</description>
@@ -77,13 +91,6 @@
       <description>銀河団の中心に位置する銀河の超大質量ブラックホールから吹き出す風が、銀河を超えて30万光年先までエネルギーを運び、銀河団内の広い空間にまで影響を及ぼしていることが、X線観測から明らかになった。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14601_turbulence</guid>
       <pubDate>Wed, 05 Aug 2026 10:06:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年8月13日 皆既日食（アイスランド、スペインなど）</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14243_ph260813</link>
-      <description>2026年8月13日（日本時間、現地時間では12日）、アイスランド、スペインなどで皆既日食が見られる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14243_ph260813</guid>
-      <pubDate>Wed, 05 Aug 2026 09:13:55 +0000</pubDate>
     </item>
     <item>
       <title>大質量星団「ウェスタールンド1」は銀河最強クラスの宇宙線加速器</title>
