@@ -6,15 +6,8 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 10:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 09:43:47 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
-    <item>
-      <title>2026年8月12日 細い月と水星、木星が接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14242_ph260812</link>
-      <description>2026年8月12日の明け方、東北東の低空で細い月と水星、木星が接近する。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14242_ph260812</guid>
-      <pubDate>Wed, 12 Aug 2026 10:12:20 +0000</pubDate>
-    </item>
     <item>
       <title>2026年8月13日 ペルセウス座流星群が極大</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14244_ph260813</link>
@@ -98,6 +91,13 @@
       <description>大質量星団「ウェスタールンド1」周辺のガンマ線が、宇宙線陽子と星間雲の衝突で発生したものであることが電波観測などにより明らかになった。この星団が銀河最強クラスの宇宙線加速器「ペバトロン」の候補という説を裏付ける成果だ。 </description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14600_westerlund1</guid>
       <pubDate>Tue, 04 Aug 2026 10:41:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月12日 細い月と水星、木星が接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14242_ph260812</link>
+      <description>2026年8月12日の明け方、東北東の低空で細い月と水星、木星が接近する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14242_ph260812</guid>
+      <pubDate>Tue, 04 Aug 2026 09:19:49 +0000</pubDate>
     </item>
     <item>
       <title>星ナビ9月号は「『宇宙兄弟』完結」と「ペルセ群を見る・撮る」</title>
@@ -336,20 +336,6 @@
       <description>一番の見ごろは8月12日の深夜から13日の明け方にかけて。月明かりの影響が全くない好条件で、空が暗いところでは1時間に30～40個くらい見えそうです。安全やマナーに気をつけて、ぜひ星空を見上げ、流れ星を待ってみてください。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14575</guid>
       <pubDate>Mon, 13 Jul 2026 09:57:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>SHARPSTARの大口径カセグレン式アストログラフ「SCA310」が新発売</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14563_SCA310</link>
-      <description>サイトロンジャパンが、天体写真撮影向けブランドSHARPSTARの新製品で、口径310mm・焦点距離 1178mm・F3.8 の大口径カセグレン式アストログラフ「SCA310」を新発売。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14563_SCA310</guid>
-      <pubDate>Mon, 13 Jul 2026 00:58:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>4枚構成アポクロマート鏡筒、Askar「111F」「131F」と専用補正レンズ2種が新発売</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14562_Askar111F131F</link>
-      <description>サイトロンジャパンは、フラットナー内蔵の4枚構成アポクロマート鏡筒、Askar「111F」と「131F」、および専用補正レンズ2種を新発売。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14562_Askar111F131F</guid>
-      <pubDate>Mon, 13 Jul 2026 00:57:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
