@@ -6,8 +6,29 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 15:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 14:32:56 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年8月15日 金星が東方最大離角</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14245_ph260815</link>
+      <description>2026年8月15日、夕方から宵の西南西の低空で輝いている宵の明星の金星が太陽から最も離れて東方最大離角となる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14245_ph260815</guid>
+      <pubDate>Fri, 14 Aug 2026 14:32:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月16日 細い月と金星が接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14247_ph260816</link>
+      <description>2026年8月16日の夕方から宵、西南西の低空で細い月と金星が接近する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14247_ph260816</guid>
+      <pubDate>Fri, 14 Aug 2026 13:34:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月16日ごろ 水星と木星が大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14246_ph260816</link>
+      <description>2026年8月中旬ごろ、明け方の東北東の低空で水星と木星が大接近する。最接近は8月16日ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14246_ph260816</guid>
+      <pubDate>Fri, 14 Aug 2026 12:33:36 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月13日 ペルセウス座流星群が極大</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14244_ph260813</link>
@@ -49,27 +70,6 @@
       <description>星形成領域におけるフィラメント間の低密度ガスとフィラメント内の高密度ガスの調査から、高密度ガスだけでなく低密度ガスも、大質量星の形成に重要な役割を果たしていることがわかった。 </description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14608_flow</guid>
       <pubDate>Fri, 07 Aug 2026 10:40:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年8月16日 細い月と金星が接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14247_ph260816</link>
-      <description>2026年8月16日の夕方から宵、西南西の低空で細い月と金星が接近する。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14247_ph260816</guid>
-      <pubDate>Thu, 06 Aug 2026 09:19:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年8月16日ごろ 水星と木星が大接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14246_ph260816</link>
-      <description>2026年8月中旬ごろ、明け方の東北東の低空で水星と木星が大接近する。最接近は8月16日ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14246_ph260816</guid>
-      <pubDate>Thu, 06 Aug 2026 09:18:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年8月15日 金星が東方最大離角</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14245_ph260815</link>
-      <description>2026年8月15日、夕方から宵の西南西の低空で輝いている宵の明星の金星が太陽から最も離れて東方最大離角となる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14245_ph260815</guid>
-      <pubDate>Thu, 06 Aug 2026 09:17:35 +0000</pubDate>
     </item>
     <item>
       <title>天文シミュレーションソフト「ステラナビゲータ」のモバイル版「ステラナビゲータ・モバイル」リリース</title>
