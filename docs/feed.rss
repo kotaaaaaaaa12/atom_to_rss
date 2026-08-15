@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 10:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 17:00:01 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年8月16日 細い月と金星が接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14247_ph260816</link>
+      <description>2026年8月16日の夕方から宵、西南西の低空で細い月と金星が接近する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14247_ph260816</guid>
+      <pubDate>Sat, 15 Aug 2026 17:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月16日ごろ 水星と木星が大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14246_ph260816</link>
+      <description>2026年8月中旬ごろ、明け方の東北東の低空で水星と木星が大接近する。最接近は8月16日ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14246_ph260816</guid>
+      <pubDate>Sat, 15 Aug 2026 16:59:41 +0000</pubDate>
+    </item>
     <item>
       <title>都市部での星雲撮影に適した干渉フィルター 「Dual BP EX II フィルター 48mm」発売</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14611_DualBPEXII48mm</link>
@@ -42,20 +56,6 @@
       <description>2026年8月15日、夕方から宵の西南西の低空で輝いている宵の明星の金星が太陽から最も離れて東方最大離角となる。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14245_ph260815</guid>
       <pubDate>Fri, 14 Aug 2026 14:32:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年8月16日 細い月と金星が接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14247_ph260816</link>
-      <description>2026年8月16日の夕方から宵、西南西の低空で細い月と金星が接近する。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14247_ph260816</guid>
-      <pubDate>Fri, 14 Aug 2026 13:34:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年8月16日ごろ 水星と木星が大接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14246_ph260816</link>
-      <description>2026年8月中旬ごろ、明け方の東北東の低空で水星と木星が大接近する。最接近は8月16日ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14246_ph260816</guid>
-      <pubDate>Fri, 14 Aug 2026 12:33:36 +0000</pubDate>
     </item>
     <item>
       <title>ヒルズボロ隕石から始原的な炭素質小惑星における塩水環境の痕跡を発見</title>
