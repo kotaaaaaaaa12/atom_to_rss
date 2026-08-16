@@ -6,15 +6,8 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 17:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:59:41 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
-    <item>
-      <title>2026年8月16日 細い月と金星が接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14247_ph260816</link>
-      <description>2026年8月16日の夕方から宵、西南西の低空で細い月と金星が接近する。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14247_ph260816</guid>
-      <pubDate>Sat, 15 Aug 2026 17:00:01 +0000</pubDate>
-    </item>
     <item>
       <title>2026年8月16日ごろ 水星と木星が大接近</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14246_ph260816</link>
@@ -65,13 +58,6 @@
       <pubDate>Fri, 14 Aug 2026 10:26:55 +0000</pubDate>
     </item>
     <item>
-      <title>2026年8月13日 ペルセウス座流星群が極大</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14244_ph260813</link>
-      <description>2026年8月13日、三大流星群の一つに数えられるペルセウス座流星群の活動が極大となる。8月12日の深夜から13日の明け方が見ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14244_ph260813</guid>
-      <pubDate>Wed, 12 Aug 2026 15:31:44 +0000</pubDate>
-    </item>
-    <item>
       <title>準天頂衛星システム「みちびき7号機」搭載のH3ロケット9号機、打ち上げ成功</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14614_michibiki7</link>
       <description>準天頂衛星システム「みちびき7号機」を搭載したH3ロケット9号機が、8月11日午前4時23分に種子島宇宙センターから打ち上げられた。ロケットは計画通りに飛行し、衛星は正常に分離されて所定の軌道に投入された。</description>
@@ -105,6 +91,20 @@
       <description>星形成領域におけるフィラメント間の低密度ガスとフィラメント内の高密度ガスの調査から、高密度ガスだけでなく低密度ガスも、大質量星の形成に重要な役割を果たしていることがわかった。 </description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14608_flow</guid>
       <pubDate>Fri, 07 Aug 2026 10:40:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月16日 細い月と金星が接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14247_ph260816</link>
+      <description>2026年8月16日の夕方から宵、西南西の低空で細い月と金星が接近する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14247_ph260816</guid>
+      <pubDate>Thu, 06 Aug 2026 09:19:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月13日 ペルセウス座流星群が極大</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14244_ph260813</link>
+      <description>2026年8月13日、三大流星群の一つに数えられるペルセウス座流星群の活動が極大となる。8月12日の深夜から13日の明け方が見ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14244_ph260813</guid>
+      <pubDate>Thu, 06 Aug 2026 09:15:04 +0000</pubDate>
     </item>
     <item>
       <title>天文シミュレーションソフト「ステラナビゲータ」のモバイル版「ステラナビゲータ・モバイル」リリース</title>
