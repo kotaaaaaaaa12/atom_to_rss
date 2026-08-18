@@ -6,15 +6,8 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 11:39:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:59:41 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
-    <item>
-      <title>2026年8月17日 はくちょう座κ流星群が極大</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14585_ph260817</link>
-      <description>2026年8月17日、はくちょう座κ流星群の活動が極大となる。小規模な流星群なので数は少ない。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14585_ph260817</guid>
-      <pubDate>Mon, 17 Aug 2026 11:39:30 +0000</pubDate>
-    </item>
     <item>
       <title>2026年8月16日ごろ 水星と木星が大接近</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14246_ph260816</link>
@@ -84,6 +77,13 @@
       <description>8月6日、おうし座に約11等級の新星が出現した。おうし座の領域で新星が発見されたのは1927年以来となる。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14613_nova_tau</guid>
       <pubDate>Mon, 10 Aug 2026 10:05:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月17日 はくちょう座κ流星群が極大</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14585_ph260817</link>
+      <description>2026年8月17日、はくちょう座κ流星群の活動が極大となる。小規模な流星群なので数は少ない。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14585_ph260817</guid>
+      <pubDate>Mon, 10 Aug 2026 09:19:48 +0000</pubDate>
     </item>
     <item>
       <title>星形成ハブにおける巨大な星の誕生を促進する低密度ガス流</title>
