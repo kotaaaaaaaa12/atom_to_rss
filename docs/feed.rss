@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 12:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:28:16 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年8月19日 伝統的七夕</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14248_ph260819</link>
+      <description>2026年の伝統的七夕（旧七夕）は8月19日。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14248_ph260819</guid>
+      <pubDate>Wed, 19 Aug 2026 14:28:16 +0000</pubDate>
+    </item>
     <item>
       <title>40億個の天体を含む史上最大の天体サーベイデータが公開</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14615_desi</link>
@@ -70,13 +77,6 @@
       <description>準天頂衛星システム「みちびき7号機」を搭載したH3ロケット9号機が、8月11日午前4時23分に種子島宇宙センターから打ち上げられた。ロケットは計画通りに飛行し、衛星は正常に分離されて所定の軌道に投入された。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14614_michibiki7</guid>
       <pubDate>Wed, 12 Aug 2026 09:29:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年8月19日 伝統的七夕</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14248_ph260819</link>
-      <description>2026年の伝統的七夕（旧七夕）は8月19日。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14248_ph260819</guid>
-      <pubDate>Wed, 12 Aug 2026 09:17:16 +0000</pubDate>
     </item>
     <item>
       <title>おうし座に新星が出現、99年ぶり</title>
