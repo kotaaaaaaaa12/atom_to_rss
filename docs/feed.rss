@@ -6,15 +6,8 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 14:28:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:50:41 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
-    <item>
-      <title>2026年8月19日 伝統的七夕</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14248_ph260819</link>
-      <description>2026年の伝統的七夕（旧七夕）は8月19日。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14248_ph260819</guid>
-      <pubDate>Wed, 19 Aug 2026 14:28:16 +0000</pubDate>
-    </item>
     <item>
       <title>初期宇宙の「赤い光点」の正体？「ブラックホール星」を発見か</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14617_mom-bh1</link>
@@ -77,6 +70,13 @@
       <description>2024年にアメリカに落下したヒルズボロ隕石中から、塩分を多く含む流体の影響を受けた物質が見つかった。隕石の母天体である小惑星の表層付近に、かつて塩水が関与する環境が存在していたことを示唆する発見だ。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14612_hillsboroug</guid>
       <pubDate>Fri, 14 Aug 2026 10:26:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月19日 伝統的七夕</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14248_ph260819</link>
+      <description>2026年の伝統的七夕（旧七夕）は8月19日。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14248_ph260819</guid>
+      <pubDate>Thu, 13 Aug 2026 09:17:16 +0000</pubDate>
     </item>
     <item>
       <title>準天頂衛星システム「みちびき7号機」搭載のH3ロケット9号機、打ち上げ成功</title>
