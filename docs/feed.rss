@@ -6,13 +6,20 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 10:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:04:12 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
     <item>
+      <title>板垣さん、きりん座の銀河に超新星を発見、今年2個目</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14622_sn2026yly</link>
+      <description>山形県の板垣公一さんが8月9日、きりん座の銀河に超新星SN 2026ylyを発見した。板垣さんの超新星発見は今年2個目、通算187個目。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14622_sn2026yly</guid>
+      <pubDate>Fri, 21 Aug 2026 10:04:12 +0000</pubDate>
+    </item>
+    <item>
       <title>いて座に今年3個目の明るい新星が出現</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14620_nova_sco</link>
+      <link>https://www.astroarts.co.jp/article/hl/a/14620_nova_sgr</link>
       <description>8月19日、いて座に今年3個目となる新星が出現した。8等台と明るく、観察しやすい。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14620_nova_sco</guid>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14620_nova_sgr</guid>
       <pubDate>Thu, 20 Aug 2026 10:06:21 +0000</pubDate>
     </item>
     <item>
@@ -329,13 +336,6 @@
       <description>東京都葛飾区の「プラネターリアム銀河座」で7月18日、開館30周年を記念した特別投影「寿司と宇宙と場所」が開催された。プラネタリウムで宇宙に思いを巡らせたあと、板前が握る本格江戸前寿司を味わうという、一風変わった組み合わせの企画に、多くの来場者が集まった。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14586_gingaza</guid>
       <pubDate>Thu, 23 Jul 2026 09:49:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>突発現象をとらえる、すばる望遠鏡の新分光器「NINJA」が始動</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14581_ninja</link>
-      <description>すばる望遠鏡に新たな近赤外線分光器「NINJA（ニンジャ）」が設置され、初の試験観測が行われる。重力波源などの突発天体や宇宙初期の遠方銀河の観測に活躍しそうだ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14581_ninja</guid>
-      <pubDate>Wed, 22 Jul 2026 09:46:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
