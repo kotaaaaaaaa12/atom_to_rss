@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 10:54:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:44:16 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>【特集】中秋の名月（2026年9月25日）</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14625</link>
+      <description>秋といえばお月見。2026年の中秋の名月の日（十五夜）は9月25日です。日付の上では満月の2日前ですが、見た目はほぼ満月です。澄んだ夜空に浮かぶ真ん丸い名月を眺めて楽しみましょう。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14625</guid>
+      <pubDate>Tue, 25 Aug 2026 09:44:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年9月の星空ガイド</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14624</link>
+      <description>金星（夕方～宵）、火星（未明～明け方）、木星（未明～明け方）、土星（宵～明け方）／2日ごろ夕方：金星とスピカが大接近／7日未明～明け方：細い月と火星が接近／9日明け方：細い月と木星が大接近／14日夕方：細い月と金星が大接近／25日：中秋の名月／27日：海王星がうお座で衝</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14624</guid>
+      <pubDate>Tue, 25 Aug 2026 09:28:03 +0000</pubDate>
+    </item>
     <item>
       <title>人類未踏の地を目指す、火星衛星探査機「MMX」10月20日打ち上げ</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14621_mmx</link>
@@ -58,13 +72,6 @@
       <pubDate>Tue, 18 Aug 2026 12:24:54 +0000</pubDate>
     </item>
     <item>
-      <title>2026年8月16日ごろ 水星と木星が大接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14246_ph260816</link>
-      <description>2026年8月中旬ごろ、明け方の東北東の低空で水星と木星が大接近する。最接近は8月16日ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14246_ph260816</guid>
-      <pubDate>Sat, 15 Aug 2026 16:59:41 +0000</pubDate>
-    </item>
-    <item>
       <title>都市部での星雲撮影に適した干渉フィルター 「Dual BP EX II フィルター 48mm」発売</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14611_DualBPEXII48mm</link>
       <description>サイトロンジャパンが、星雲をハイコントラストに表現し、また都市部での星雲撮影に適した干渉フィルター「Dual BP EX IIフィルター 48mm」を新発売。</description>
@@ -91,13 +98,6 @@
       <description>ケンコー・トキナーが、約840gの軽量・コンパクト設計ながら、本格的な天体撮影を楽しめるスマートデジタル望遠鏡「DWARF mini」を新発売。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14605_DWARFmini</guid>
       <pubDate>Sat, 15 Aug 2026 10:02:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年8月15日 金星が東方最大離角</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14245_ph260815</link>
-      <description>2026年8月15日、夕方から宵の西南西の低空で輝いている宵の明星の金星が太陽から最も離れて東方最大離角となる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14245_ph260815</guid>
-      <pubDate>Fri, 14 Aug 2026 14:32:56 +0000</pubDate>
     </item>
     <item>
       <title>ヒルズボロ隕石から始原的な炭素質小惑星における塩水環境の痕跡を発見</title>
@@ -147,6 +147,20 @@
       <description>2026年8月16日の夕方から宵、西南西の低空で細い月と金星が接近する。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14247_ph260816</guid>
       <pubDate>Thu, 06 Aug 2026 09:19:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月16日ごろ 水星と木星が大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14246_ph260816</link>
+      <description>2026年8月中旬ごろ、明け方の東北東の低空で水星と木星が大接近する。最接近は8月16日ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14246_ph260816</guid>
+      <pubDate>Thu, 06 Aug 2026 09:18:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月15日 金星が東方最大離角</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14245_ph260815</link>
+      <description>2026年8月15日、夕方から宵の西南西の低空で輝いている宵の明星の金星が太陽から最も離れて東方最大離角となる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14245_ph260815</guid>
+      <pubDate>Thu, 06 Aug 2026 09:17:35 +0000</pubDate>
     </item>
     <item>
       <title>2026年8月13日 ペルセウス座流星群が極大</title>
