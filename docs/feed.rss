@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 09:44:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:54:46 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>IIb型超新星の電波観測が示唆する、前駆星の複雑なガス放出</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14616_sn2024iss</link>
+      <description>IIb型超新星2024issの電波観測から、超新星爆発を起こした星の近くの濃いガスを衝撃波が通り抜けて大きく加速された可能性が示された。爆発直前の前駆星のガス放出が複雑に変化 していたことを示唆する成果だ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14616_sn2024iss</guid>
+      <pubDate>Tue, 25 Aug 2026 10:54:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>おおぐま座の超新星SN 2026sqfが11等台に</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14626_sn2026sqf</link>
+      <description>7月8日に発見された超新星SN 2026sqfが11等台まで明るくなっている。かなり低い位置だが、観測したい対象だ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14626_sn2026sqf</guid>
+      <pubDate>Tue, 25 Aug 2026 10:25:11 +0000</pubDate>
+    </item>
     <item>
       <title>【特集】中秋の名月（2026年9月25日）</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14625</link>
