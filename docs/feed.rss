@@ -6,21 +6,28 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 12:36:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:31:14 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
-    <item>
-      <title>8月30日打ち上げのローマン宇宙望遠鏡が見えるかも？撮影にチャレンジ！</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14629_rst</link>
-      <description>8月30日に打ち上げ予定のローマン宇宙望遠鏡が、30～31日にかけて南西の低空に見えるかもしれない。位置を確かめて撮影に挑戦してみよう。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14629_rst</guid>
-      <pubDate>Wed, 26 Aug 2026 12:36:36 +0000</pubDate>
-    </item>
     <item>
       <title>今週末は胎内星まつり！アストロアーツ製品の特価販売も</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14610_fes2026</link>
       <description>8月28日（金）～30日（日）に新潟県の胎内で開かれる胎内星まつり。43回を迎える真夏の夜の祭典には、アストロアーツをはじめ多くの天文ショップが軒を連ねます。星空の下でお会いしましょう。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14610_fes2026</guid>
-      <pubDate>Wed, 26 Aug 2026 11:01:48 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 10:31:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>8月30日打ち上げのローマン宇宙望遠鏡が見えるかも？撮影にチャレンジ！</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14629_rst</link>
+      <description>8月30日に打ち上げ予定のローマン宇宙望遠鏡が、30～31日にかけて南西の低空に見えるかもしれない。位置を確かめて撮影に挑戦してみよう。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14629_rst</guid>
+      <pubDate>Fri, 28 Aug 2026 09:32:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>恒星間天体アトラス彗星から極端に多い鉄やニッケルを検出</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14623_atlas</link>
+      <description>恒星間天体のアトラス彗星から、極端に多い鉄やニッケルが検出された。水に対する相対比は太陽系彗星の数十倍以上と推定され、彗星研究者にとって予想外の特異性が明らかになった。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14623_atlas</guid>
+      <pubDate>Thu, 27 Aug 2026 10:10:13 +0000</pubDate>
     </item>
     <item>
       <title>や座に明るい新星が出現</title>
@@ -322,13 +329,6 @@
       <description>原始ブラックホールが引き金となって爆発したIa型超新星が、いくつかの超新星残骸や近傍のIa型超新星の特性を説明できることや、天の川銀河の恒星の化学組成の傾向を説明できることが理論研究で示された。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14593_snia</guid>
       <pubDate>Wed, 29 Jul 2026 10:35:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>超新星は宇宙の巨大粒子加速器「ペバトロン」になりえるか</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14591_pevatron</link>
-      <description>2023年に出現した超新星と、同時期の高エネルギーニュートリノ事象とを組み合わせた研究から、超新星が巨大粒子加速器のように働いて高エネルギー宇宙線を生み出す「ペバトロン」である可能性が示された。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14591_pevatron</guid>
-      <pubDate>Tue, 28 Jul 2026 10:39:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
