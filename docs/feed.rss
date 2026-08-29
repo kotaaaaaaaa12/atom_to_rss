@@ -6,21 +6,35 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 10:31:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:27:29 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>8月30日打ち上げのローマン宇宙望遠鏡が見えるかも？撮影にチャレンジ！</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14629_rst</link>
+      <description>8月30日に打ち上げ予定のローマン宇宙望遠鏡が、30～31日にかけて南西の低空に見えるかもしれない。位置を確かめて撮影に挑戦してみよう。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14629_rst</guid>
+      <pubDate>Sun, 30 Aug 2026 11:27:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>10月11日に東京で『TAMRON 12-20mm F2.8 クロストーク＆レンズ体験会』開催</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14631_TAMRON12_20mm</link>
+      <description>タムロンは、8月27日に発売した小型軽量な超広角ズームレンズ「12-20mm F2.8（Model A084）」の体験会を10月11日にソニーPCLのクリエイティブ拠点「清澄白河BASE」で開催する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14631_TAMRON12_20mm</guid>
+      <pubDate>Sat, 29 Aug 2026 13:39:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZWOのスマート天体望遠鏡「Seestar S50 Pro」新発売</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14630_SeestarS50Pro</link>
+      <description>ビクセンが、ZWO社のスマート天体望遠鏡「Seestarシリーズ」の新製品「Seestar S50 Pro」を新発売。 </description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14630_SeestarS50Pro</guid>
+      <pubDate>Sat, 29 Aug 2026 13:14:20 +0000</pubDate>
+    </item>
     <item>
       <title>今週末は胎内星まつり！アストロアーツ製品の特価販売も</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14610_fes2026</link>
       <description>8月28日（金）～30日（日）に新潟県の胎内で開かれる胎内星まつり。43回を迎える真夏の夜の祭典には、アストロアーツをはじめ多くの天文ショップが軒を連ねます。星空の下でお会いしましょう。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14610_fes2026</guid>
       <pubDate>Fri, 28 Aug 2026 10:31:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>8月30日打ち上げのローマン宇宙望遠鏡が見えるかも？撮影にチャレンジ！</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14629_rst</link>
-      <description>8月30日に打ち上げ予定のローマン宇宙望遠鏡が、30～31日にかけて南西の低空に見えるかもしれない。位置を確かめて撮影に挑戦してみよう。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14629_rst</guid>
-      <pubDate>Fri, 28 Aug 2026 09:32:02 +0000</pubDate>
     </item>
     <item>
       <title>恒星間天体アトラス彗星から極端に多い鉄やニッケルを検出</title>
@@ -315,13 +329,6 @@
       <description>ステライメージ10を使い、M42（オリオン座大星雲）の画像処理手順を詳しく解説。白飛びや淡い部分の階調調整、色彩調整など、他の星雲にも応用できる画像処理の基本プロセスを7つのステップでご紹介します。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14602_blog</guid>
       <pubDate>Fri, 31 Jul 2026 10:09:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ベンヌから太陽系最初期の岩石を発見、リュウグウと共通の特徴</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14595_bennu</link>
-      <description>小惑星ベンヌの試料から、45億6730万年前に形成された太陽系最古のものを含む、太陽系最初期の岩石状物質が複数見つかった。リュウグウの試料と共通した特徴があり、ともに太陽系遠方で似た材料から形成された可能性がある。 </description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14595_bennu</guid>
-      <pubDate>Thu, 30 Jul 2026 10:27:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
