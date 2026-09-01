@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 09:58:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:29:40 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>すばる望遠鏡のアーカイブから見つかった彗星の予想外の素顔</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14627_neujmin</link>
+      <description>すばる望遠鏡観測データの公開アーカイブから、コマのない状態の彗星が見つかった。彗星核表面の反射特性が予想外のものであると判明し、彗星と小惑星の違いの理解につながる成果が得られた。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14627_neujmin</guid>
+      <pubDate>Tue, 01 Sep 2026 10:29:40 +0000</pubDate>
+    </item>
     <item>
       <title>星ナビ10月号は「宇宙×南極」と「五藤光学研究所100年」</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14636_hoshinavi</link>
