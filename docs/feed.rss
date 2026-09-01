@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 10:29:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:31:47 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年9月2日ごろ 金星とスピカが大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14249_ph260902</link>
+      <description>2026年8月下旬から9月上旬ごろ、夕方の西南西の低空で金星とおとめ座の1等星スピカが大接近する。最接近は9月2日ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14249_ph260902</guid>
+      <pubDate>Wed, 02 Sep 2026 11:31:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年9月9日 細い月と木星が大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14251_ph260909</link>
+      <description>2026年9月9日の未明から明け方、東北東から東の低空で細い月と木星が大接近する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14251_ph260909</guid>
+      <pubDate>Wed, 02 Sep 2026 09:19:40 +0000</pubDate>
+    </item>
     <item>
       <title>すばる望遠鏡のアーカイブから見つかった彗星の予想外の素顔</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14627_neujmin</link>
@@ -84,13 +98,6 @@
       <description>8月25日、や座に9等級の新星が出現した。発見から半日ほどで7等台まで明るくなっている。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14628_nova_sge</guid>
       <pubDate>Wed, 26 Aug 2026 10:05:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年9月2日ごろ 金星とスピカが大接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14249_ph260902</link>
-      <description>2026年8月下旬から9月上旬ごろ、夕方の西南西の低空で金星とおとめ座の1等星スピカが大接近する。最接近は9月2日ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14249_ph260902</guid>
-      <pubDate>Wed, 26 Aug 2026 09:17:13 +0000</pubDate>
     </item>
     <item>
       <title>IIb型超新星の電波観測が示唆する、前駆星の複雑なガス放出</title>
