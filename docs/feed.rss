@@ -6,14 +6,21 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Sun, 06 Sep 2026 15:39:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:52:50 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
     <item>
-      <title>2026年9月7日 細い月と火星が接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14250_ph260907</link>
-      <description>2026年9月7日の未明から明け方、東北東から東の空で細い月と火星が接近する。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14250_ph260907</guid>
-      <pubDate>Sun, 06 Sep 2026 15:39:15 +0000</pubDate>
+      <title>XENONnT実験で低エネルギー太陽ニュートリノによる電子散乱事象を初観測</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14638_xenonnt</link>
+      <description>ダークマターの直接検出を目指して稼働中の「XENONnT実験」で、これまでに直接観測された中で最も低エネルギーの太陽ニュートリノと電子との散乱事象が世界で初めて検出された。 </description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14638_xenonnt</guid>
+      <pubDate>Mon, 07 Sep 2026 10:52:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年9月14日 細い月と金星が大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14252_ph260914</link>
+      <description>2026年9月14日の夕方、西南西の低空で細い月と金星が大接近する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14252_ph260914</guid>
+      <pubDate>Mon, 07 Sep 2026 09:11:41 +0000</pubDate>
     </item>
     <item>
       <title>入賞作品は星ナビ掲載　ソニーの「星空フォト＆ムービーコンテスト2026」</title>
@@ -84,6 +91,13 @@
       <description>2027年の天文現象をまとめたカレンダー「星空こよみ2027」が9月1日発売。「卓上版」と「壁掛け版」の2タイプ。天文現象や天体の解説、美しい天体写真を楽しめる実用的なカレンダーです。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14632_cal2027</guid>
       <pubDate>Mon, 31 Aug 2026 09:40:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年9月7日 細い月と火星が接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14250_ph260907</link>
+      <description>2026年9月7日の未明から明け方、東北東から東の空で細い月と火星が接近する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14250_ph260907</guid>
+      <pubDate>Mon, 31 Aug 2026 09:14:29 +0000</pubDate>
     </item>
     <item>
       <title>10月11日に東京で『TAMRON 12-20mm F2.8 クロストーク＆レンズ体験会』開催</title>
