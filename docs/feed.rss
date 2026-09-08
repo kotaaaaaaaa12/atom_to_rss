@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 10:52:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:42:55 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年9月9日 細い月と木星が大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14251_ph260909</link>
+      <description>2026年9月9日の未明から明け方、東北東から東の低空で細い月と木星が大接近する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14251_ph260909</guid>
+      <pubDate>Tue, 08 Sep 2026 14:42:55 +0000</pubDate>
+    </item>
     <item>
       <title>XENONnT実験で低エネルギー太陽ニュートリノによる電子散乱事象を初観測</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14638_xenonnt</link>
@@ -56,13 +63,6 @@
       <description>2026年8月下旬から9月上旬ごろ、夕方の西南西の低空で金星とおとめ座の1等星スピカが大接近する。最接近は9月2日ごろ。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14249_ph260902</guid>
       <pubDate>Wed, 02 Sep 2026 09:31:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年9月9日 細い月と木星が大接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14251_ph260909</link>
-      <description>2026年9月9日の未明から明け方、東北東から東の低空で細い月と木星が大接近する。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14251_ph260909</guid>
-      <pubDate>Wed, 02 Sep 2026 09:19:40 +0000</pubDate>
     </item>
     <item>
       <title>すばる望遠鏡のアーカイブから見つかった彗星の予想外の素顔</title>
