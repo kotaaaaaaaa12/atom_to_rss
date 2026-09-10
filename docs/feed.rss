@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 10:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:57:08 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>リュウグウの砂に、生命材料につながる濃厚な塩水の痕跡を発見</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14641_ryugu</link>
+      <description>小惑星リュウグウの試料の分析から、アンモニアなどの窒素化合物が塩結晶の周辺に集まっている様子が明らかになった。母天体に高濃度塩水が存在し、生命材料につながる化学反応が起こりやすい環境だった可能性がある。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14641_ryugu</guid>
+      <pubDate>Thu, 10 Sep 2026 09:57:08 +0000</pubDate>
+    </item>
     <item>
       <title>形成中の系外惑星に衛星の材料を持つダストリングが存在する可能性</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14639_pds70c</link>
