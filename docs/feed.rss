@@ -6,14 +6,21 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 11:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:36:47 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
     <item>
-      <title>2026年9月14日 細い月と金星が大接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14252_ph260914</link>
-      <description>2026年9月14日の夕方、西南西の低空で細い月と金星が大接近する。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14252_ph260914</guid>
-      <pubDate>Mon, 14 Sep 2026 11:51:41 +0000</pubDate>
+      <title>宇宙に広がる放射超過の謎に迫る超小型衛星「VERTECS」が定常観測開始</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14642_vertecs</link>
+      <description>今年6月に打ち上げられた超小型天文衛星「VERTECS」が試験観測を完了し、定常観測を開始した。既知の銀河だけでは説明できない、宇宙に広がる放射超過の謎に迫る。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14642_vertecs</guid>
+      <pubDate>Mon, 14 Sep 2026 10:36:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>いて座に今年4個目の新星が出現</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14648_nova_sgr</link>
+      <description>9月8日、いて座に今年4個目となる新星が出現した。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14648_nova_sgr</guid>
+      <pubDate>Mon, 14 Sep 2026 10:03:46 +0000</pubDate>
     </item>
     <item>
       <title>リュウグウの砂に、生命材料につながる濃厚な塩水の痕跡を発見</title>
@@ -35,6 +42,13 @@
       <description>ダークマターの直接検出を目指して稼働中の「XENONnT実験」で、これまでに直接観測された中で最も低エネルギーの太陽ニュートリノと電子との散乱事象が世界で初めて検出された。 </description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14638_xenonnt</guid>
       <pubDate>Mon, 07 Sep 2026 10:52:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年9月14日 細い月と金星が大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14252_ph260914</link>
+      <description>2026年9月14日の夕方、西南西の低空で細い月と金星が大接近する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14252_ph260914</guid>
+      <pubDate>Mon, 07 Sep 2026 09:11:41 +0000</pubDate>
     </item>
     <item>
       <title>入賞作品は星ナビ掲載　ソニーの「星空フォト＆ムービーコンテスト2026」</title>
@@ -231,34 +245,6 @@
       <description>ダークエネルギーの謎に迫る銀河サーベイ「DESI」の基礎となる、約40億個の天体サーベイデータが公開された。全天の約75%をカバーする史上最大の撮像サーベイデータだ。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14615_desi</guid>
       <pubDate>Tue, 18 Aug 2026 12:24:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>都市部での星雲撮影に適した干渉フィルター 「Dual BP EX II フィルター 48mm」発売</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14611_DualBPEXII48mm</link>
-      <description>サイトロンジャパンが、星雲をハイコントラストに表現し、また都市部での星雲撮影に適した干渉フィルター「Dual BP EX IIフィルター 48mm」を新発売。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14611_DualBPEXII48mm</guid>
-      <pubDate>Sat, 15 Aug 2026 10:20:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hα波長/白色光を切替え可能な1台2役の太陽望遠鏡「LUMA-X」発売</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14609_LUMA-X</link>
-      <description>サイトロンジャパンが、ACUTER OPTICSの太陽望遠鏡で、Hα波長/白色光を切替え可能な1台で2役をこなす「LUMA-X」を新発売。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14609_LUMA-X</guid>
-      <pubDate>Sat, 15 Aug 2026 10:15:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>シャープな見え味で使いやすい日本製天体望遠鏡「infini D50L」発売</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14607_infiniD50L</link>
-      <description>サイトロンジャパンは、2025年発売の鏡筒「infini D50」の長焦点モデル「infini D50L」の単体販売を開始した。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14607_infiniD50L</guid>
-      <pubDate>Sat, 15 Aug 2026 10:06:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>圧倒的携帯性の最軽量スマート望遠鏡「DWARF mini」発売</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14605_DWARFmini</link>
-      <description>ケンコー・トキナーが、約840gの軽量・コンパクト設計ながら、本格的な天体撮影を楽しめるスマートデジタル望遠鏡「DWARF mini」を新発売。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14605_DWARFmini</guid>
-      <pubDate>Sat, 15 Aug 2026 10:02:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
