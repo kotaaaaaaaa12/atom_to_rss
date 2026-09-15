@@ -6,8 +6,29 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 10:36:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:17:13 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>アルマ望遠鏡で8年追跡、形成中の大質量連星系の三次元構造</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14644_iras07299</link>
+      <description>アルマ望遠鏡を用いた8年にわたる観測により、形成中の大質量連星系の三次元構造が明らかになった。連星は同じガス円盤から誕生したのではなく、成長中に近接遭遇して重力的に結びついたとみられる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14644_iras07299</guid>
+      <pubDate>Tue, 15 Sep 2026 10:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年9月27日 海王星がうお座で衝</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14254_ph260927</link>
+      <description>2026年9月27日、海王星がうお座で衝（太陽‐地球‐海王星がまっすぐに並ぶ位置関係）となる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14254_ph260927</guid>
+      <pubDate>Tue, 15 Sep 2026 09:15:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年9月25日 中秋の名月</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14253_ph260925</link>
+      <description>2026年の中秋の名月（十五夜）は9月25日で、満月の2日前となる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14253_ph260925</guid>
+      <pubDate>Tue, 15 Sep 2026 09:14:02 +0000</pubDate>
+    </item>
     <item>
       <title>宇宙に広がる放射超過の謎に迫る超小型衛星「VERTECS」が定常観測開始</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14642_vertecs</link>
