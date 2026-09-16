@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 10:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:15:43 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>水星は形成から現在までに10km以上縮んでいた</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14645_mercury</link>
+      <description>水星表面の凹凸の度合いとしわ状の収縮地形とを全球的に比較した研究から、水星がこれまでに10km以上も収縮したことが明らかになった。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14645_mercury</guid>
+      <pubDate>Wed, 16 Sep 2026 10:15:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>12等級まで明るくなったペガスス座の超新星SN 2026aaiv</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14651_sn2026aaiv</link>
+      <description>ペガスス座の銀河に出現した超新星SN 2026aaivが、発見時から5等級増光して12等台まで明るくなっている。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14651_sn2026aaiv</guid>
+      <pubDate>Wed, 16 Sep 2026 10:01:20 +0000</pubDate>
+    </item>
     <item>
       <title>アルマ望遠鏡で8年追跡、形成中の大質量連星系の三次元構造</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14644_iras07299</link>
