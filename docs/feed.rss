@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 10:08:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:08:17 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年10月の星空ガイド</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14657</link>
+      <description>火星（未明～明け方）、木星（未明～明け方）、土星（夕方～未明）／5日：土星が衝／9日ごろ：はくちょう座χ星が極大光度／12日ごろ未明～明け方：火星とプレセペ星団が大接近／17日：ベスタが衝／22日：オリオン座流星群が極大</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14657</guid>
+      <pubDate>Thu, 24 Sep 2026 10:08:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>天文書評＆新刊情報『星空の不思議』『プラネタリウム百年史』など7冊</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14656</link>
+      <description>星ナビ2026年9月号「ほんナビ」で紹介の7冊：📖星の海を駆ける📖星空の不思議📖プラネタリウム百年史📖日本で一番すてきな星空ガイド📖こころがふわりと軽くなる　宇宙の旅📖地上の異星📖面白くて眠れなくなる宇宙</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14656</guid>
+      <pubDate>Thu, 24 Sep 2026 09:36:20 +0000</pubDate>
+    </item>
     <item>
       <title>リュウグウは45.65億年以上前に誕生した天体の残骸から作られた</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14650_ryugu</link>
@@ -242,7 +256,7 @@
     <item>
       <title>2026年9月の星空ガイド</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14624</link>
-      <description>金星（夕方～宵）、火星（未明～明け方）、木星（未明～明け方）、土星（宵～明け方）／2日ごろ夕方：金星とスピカが大接近／7日未明～明け方：細い月と火星が接近／9日明け方：細い月と木星が大接近／14日夕方：細い月と金星が大接近／25日：中秋の名月／27日：海王星がうお座で衝</description>
+      <description>金星（夕方～宵）、火星（未明～明け方）、木星（未明～明け方）、土星（宵～明け方）／2日ごろ夕方：金星とスピカが大接近／7日未明～明け方：細い月と火星が接近／9日明け方：細い月と木星が大接近／14日夕方：細い月と金星が大接近／25日：中秋の名月／27日：海王星が衝</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14624</guid>
       <pubDate>Tue, 25 Aug 2026 09:28:03 +0000</pubDate>
     </item>
