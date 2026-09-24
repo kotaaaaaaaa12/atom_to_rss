@@ -6,14 +6,21 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 11:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 14:09:43 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
     <item>
-      <title>ピタッと止まる手振れ補正付き防振双眼鏡「Kenko VCスマート CellartoII シリーズ」4製品が新登場</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14649_KenkoVC_CellartoII</link>
-      <description>ケンコー・トキナーは、ピタッと止まる手振れ補正付きの防振双眼鏡「Kenko VC スマート CellartoII シリーズ」から新製品4種をこの秋に発売する。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14649_KenkoVC_CellartoII</guid>
-      <pubDate>Thu, 24 Sep 2026 11:24:39 +0000</pubDate>
+      <title>2026年9月25日 中秋の名月</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14253_ph260925</link>
+      <description>2026年の中秋の名月（十五夜）は9月25日で、満月の2日前となる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14253_ph260925</guid>
+      <pubDate>Fri, 25 Sep 2026 14:09:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年9月27日 海王星がうお座で衝</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14254_ph260927</link>
+      <description>2026年9月27日、海王星がうお座で衝（太陽‐地球‐海王星がまっすぐに並ぶ位置関係）となる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14254_ph260927</guid>
+      <pubDate>Fri, 25 Sep 2026 12:10:19 +0000</pubDate>
     </item>
     <item>
       <title>2026年10月の星空ガイド</title>
@@ -21,6 +28,13 @@
       <description>火星（未明～明け方）、木星（未明～明け方）、土星（夕方～未明）／5日：土星が衝／9日ごろ：はくちょう座χ星が極大光度／12日ごろ未明～明け方：火星とプレセペ星団が大接近／17日：ベスタが衝／22日：オリオン座流星群が極大</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14657</guid>
       <pubDate>Thu, 24 Sep 2026 10:08:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>ピタッと止まる手振れ補正付き防振双眼鏡「Kenko VCスマート CellartoII シリーズ」4製品が新登場</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14649_KenkoVC_CellartoII</link>
+      <description>ケンコー・トキナーは、ピタッと止まる手振れ補正付きの防振双眼鏡「Kenko VCスマート CellartoII シリーズ」から新製品4種をこの秋に発売する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14649_KenkoVC_CellartoII</guid>
+      <pubDate>Thu, 24 Sep 2026 09:54:39 +0000</pubDate>
     </item>
     <item>
       <title>天文書評＆新刊情報『星空の不思議』『プラネタリウム百年史』など7冊</title>
@@ -63,20 +77,6 @@
       <description>アルマ望遠鏡を用いた8年にわたる観測により、形成中の大質量連星系の三次元構造が明らかになった。連星は同じガス円盤から誕生したのではなく、成長中に近接遭遇して重力的に結びついたとみられる。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14644_iras07299</guid>
       <pubDate>Tue, 15 Sep 2026 10:17:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年9月27日 海王星がうお座で衝</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14254_ph260927</link>
-      <description>2026年9月27日、海王星がうお座で衝（太陽‐地球‐海王星がまっすぐに並ぶ位置関係）となる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14254_ph260927</guid>
-      <pubDate>Tue, 15 Sep 2026 09:15:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年9月25日 中秋の名月</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14253_ph260925</link>
-      <description>2026年の中秋の名月（十五夜）は9月25日で、満月の2日前となる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14253_ph260925</guid>
-      <pubDate>Tue, 15 Sep 2026 09:14:02 +0000</pubDate>
     </item>
     <item>
       <title>宇宙に広がる放射超過の謎に迫る超小型衛星「VERTECS」が定常観測開始</title>
