@@ -6,15 +6,8 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 14:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:10:19 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
-    <item>
-      <title>2026年9月25日 中秋の名月</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14253_ph260925</link>
-      <description>2026年の中秋の名月（十五夜）は9月25日で、満月の2日前となる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14253_ph260925</guid>
-      <pubDate>Fri, 25 Sep 2026 14:09:43 +0000</pubDate>
-    </item>
     <item>
       <title>2026年9月27日 海王星がうお座で衝</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14254_ph260927</link>
@@ -77,6 +70,13 @@
       <description>アルマ望遠鏡を用いた8年にわたる観測により、形成中の大質量連星系の三次元構造が明らかになった。連星は同じガス円盤から誕生したのではなく、成長中に近接遭遇して重力的に結びついたとみられる。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14644_iras07299</guid>
       <pubDate>Tue, 15 Sep 2026 10:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年9月25日 中秋の名月</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14253_ph260925</link>
+      <description>2026年の中秋の名月（十五夜）は9月25日で、満月の2日前となる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14253_ph260925</guid>
+      <pubDate>Tue, 15 Sep 2026 09:14:02 +0000</pubDate>
     </item>
     <item>
       <title>宇宙に広がる放射超過の謎に迫る超小型衛星「VERTECS」が定常観測開始</title>
@@ -203,13 +203,6 @@
       <description>ビクセンが、ZWO社のスマート天体望遠鏡「Seestarシリーズ」の新製品「Seestar S50 Pro」を新発売。 </description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14630_SeestarS50Pro</guid>
       <pubDate>Sat, 29 Aug 2026 13:14:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>恒星間天体アトラス彗星から極端に多い鉄やニッケルを検出</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14623_atlas</link>
-      <description>恒星間天体のアトラス彗星から、極端に多い鉄やニッケルが検出された。水に対する相対比は太陽系彗星の数十倍以上と推定され、彗星研究者にとって予想外の特異性が明らかになった。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14623_atlas</guid>
-      <pubDate>Thu, 27 Aug 2026 10:10:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
