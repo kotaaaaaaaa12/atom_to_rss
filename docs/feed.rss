@@ -6,14 +6,28 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 09:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:09:30 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>アトラス彗星の特異な金属組成をコマの広範囲で確認</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14653_atlas</link>
+      <description>恒星間天体アトラス彗星の分光観測から、鉄・ニッケル原子が多いという特異な性質がコマの広範囲で確認された。また、コマ中のガスの膨張速度が、同じ太陽距離にある太陽系の彗星の半分程度とみられることも示された。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14653_atlas</guid>
+      <pubDate>Mon, 28 Sep 2026 10:09:30 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月5日 土星がくじら座で衝</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14256_ph261005</link>
       <description>2026年10月5日、土星がくじら座で衝（太陽‐地球‐土星がまっすぐに並ぶ位置関係）となる。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14256_ph261005</guid>
       <pubDate>Mon, 28 Sep 2026 09:19:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>10月11日に東京で『TAMRON 12-20mm F2.8 クロストーク＆レンズ体験会』開催</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14631_TAMRON12_20mm</link>
+      <description>タムロンは、8月27日に発売した小型軽量な超広角ズームレンズ「12-20mm F2.8（Model A084）」の体験会を10月11日（日）にソニーPCLのクリエイティブ拠点「清澄白河BASE」で開催する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14631_TAMRON12_20mm</guid>
+      <pubDate>Mon, 28 Sep 2026 07:33:47 +0000</pubDate>
     </item>
     <item>
       <title>サイトロンジャパン「SJH-75UF」鏡筒 キャッシュバックキャンペーン</title>
@@ -203,20 +217,6 @@
       <description>2026年9月7日の未明から明け方、東北東から東の空で細い月と火星が接近する。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14250_ph260907</guid>
       <pubDate>Mon, 31 Aug 2026 09:14:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>10月11日に東京で『TAMRON 12-20mm F2.8 クロストーク＆レンズ体験会』開催</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14631_TAMRON12_20mm</link>
-      <description>タムロンは、8月27日に発売した小型軽量な超広角ズームレンズ「12-20mm F2.8（Model A084）」の体験会を10月11日（日）にソニーPCLのクリエイティブ拠点「清澄白河BASE」で開催する。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14631_TAMRON12_20mm</guid>
-      <pubDate>Sat, 29 Aug 2026 13:39:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZWOのスマート天体望遠鏡「Seestar S50 Pro」新発売</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14630_SeestarS50Pro</link>
-      <description>ビクセンが、ZWO社のスマート天体望遠鏡「Seestarシリーズ」の新製品「Seestar S50 Pro」を新発売。 </description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14630_SeestarS50Pro</guid>
-      <pubDate>Sat, 29 Aug 2026 13:14:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
