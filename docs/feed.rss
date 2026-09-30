@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 10:11:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:54:27 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>リトル・レッド・ドットの赤さは過大質量ブラックホールの形成環境が生み出す？</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14652_lrd</link>
+      <description>初期宇宙の謎の天体「リトル・レッド・ドット」と「過大質量ブラックホール」は別々に議論されてきたが、これらを一つの形成過程として結びつけたシミュレーション研究の成果が発表された。さらに、リトル・レッド・ドット中のブラックホールが超大質量ブラックホールへ成長する道筋も示された。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14652_lrd</guid>
+      <pubDate>Wed, 30 Sep 2026 10:54:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>話題のミラ型変光星の近況</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14663_variable</link>
+      <description>初心者からベテランまで注目されている3つのミラ型変光星が見ごろを迎えている。この機会にぜひ観測してみよう。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14663_variable</guid>
+      <pubDate>Wed, 30 Sep 2026 09:40:40 +0000</pubDate>
+    </item>
     <item>
       <title>木星氷衛星探査機「ジュース」、2回目の地球スイングバイを完了</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14660_juice</link>
@@ -203,27 +217,6 @@
       <description>星空を楽しむための月刊「星ナビ」2026年10月号は9月4日（金）発売です。今一番ホットな観測地・南極で行われている天文学プロジェクトを解説！プラネタリウムでおなじみ「五藤光学研究所」の100年の歩みを振り返ります。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14636_hoshinavi</guid>
       <pubDate>Tue, 01 Sep 2026 09:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>NASAの「ローマン宇宙望遠鏡」、打ち上げ成功</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14633_roman</link>
-      <description>日本時間8月30日20時26分、NASAの「ナンシー・グレース・ローマン宇宙望遠鏡」が米・フロリダ州のケネディ宇宙センターから打ち上げられた。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14633_roman</guid>
-      <pubDate>Mon, 31 Aug 2026 10:39:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>卓上・壁掛けが選べるカレンダー「星空こよみ2027」9月1日発売</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14632_cal2027</link>
-      <description>2027年の天文現象をまとめたカレンダー「星空こよみ2027」が9月1日発売。「卓上版」と「壁掛け版」の2タイプ。天文現象や天体の解説、美しい天体写真を楽しめる実用的なカレンダーです。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14632_cal2027</guid>
-      <pubDate>Mon, 31 Aug 2026 09:40:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年9月7日 細い月と火星が接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14250_ph260907</link>
-      <description>2026年9月7日の未明から明け方、東北東から東の空で細い月と火星が接近する。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14250_ph260907</guid>
-      <pubDate>Mon, 31 Aug 2026 09:14:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
