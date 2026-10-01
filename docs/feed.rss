@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 09:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:32:59 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>リュウグウや隕石に「見えない物質」、始原的な組成が保たれた謎の手がかり</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14654_ryugu</link>
+      <description>小惑星リュウグウや始原的な炭素質隕石が、水との強い反応にもかかわらず太陽系初期の元素組成を保っている謎について、低結晶性のマグネシウムケイ酸塩水和物が重要な役割を果たした可能性が示された。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14654_ryugu</guid>
+      <pubDate>Thu, 01 Oct 2026 10:32:59 +0000</pubDate>
+    </item>
     <item>
       <title>星ナビ11月号は「公開天文台100周年クライマックス」と「天文小説“宙ノベ”スタート」</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14662_hoshinavi</link>
@@ -210,20 +217,6 @@
       <description>2026年9月9日の未明から明け方、東北東から東の低空で細い月と木星が大接近する。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14251_ph260909</guid>
       <pubDate>Wed, 02 Sep 2026 09:19:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>すばる望遠鏡のアーカイブから見つかった彗星の予想外の素顔</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14627_neujmin</link>
-      <description>すばる望遠鏡観測データの公開アーカイブから、コマのない状態の彗星が見つかった。彗星核表面の反射特性が予想外のものであると判明し、彗星と小惑星の違いの理解につながる成果が得られた。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14627_neujmin</guid>
-      <pubDate>Tue, 01 Sep 2026 10:29:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>星ナビ10月号は「宇宙×南極」と「五藤光学研究所100年」</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14636_hoshinavi</link>
-      <description>星空を楽しむための月刊「星ナビ」2026年10月号は9月4日（金）発売です。今一番ホットな観測地・南極で行われている天文学プロジェクトを解説！プラネタリウムでおなじみ「五藤光学研究所」の100年の歩みを振り返ります。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14636_hoshinavi</guid>
-      <pubDate>Tue, 01 Sep 2026 09:58:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
