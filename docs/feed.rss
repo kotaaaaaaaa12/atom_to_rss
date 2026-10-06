@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 09:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:28:09 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>太古の火星では水蒸気と雨が生命材料分子の原料供給を左右</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14667_mars</link>
+      <description>約36～38億年前の火星を対象とした光化学計算と全球気候モデルを組み合わせた解析から、生命材料分子の原料となるホルムアルデヒドの沈着量の分布が可視化され、火星全体で約100倍の地域差が存在していたことが示された。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14667_mars</guid>
+      <pubDate>Tue, 06 Oct 2026 10:28:09 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月14日 パラスがくじら座で衝</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14260_ph261014</link>
@@ -107,13 +114,6 @@
       <pubDate>Tue, 29 Sep 2026 10:11:22 +0000</pubDate>
     </item>
     <item>
-      <title>2026年9月29日 ナウシカアがうお座で衝</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14255_ph260929</link>
-      <description>2026年9月29日、小惑星ナウシカアがうお座で衝（太陽‐地球‐ナウシカアがまっすぐに並ぶ位置関係）となる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14255_ph260929</guid>
-      <pubDate>Tue, 29 Sep 2026 09:05:30 +0000</pubDate>
-    </item>
-    <item>
       <title>アトラス彗星の特異な金属組成をコマの広範囲で確認</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14653_atlas</link>
       <description>恒星間天体アトラス彗星の分光観測から、鉄・ニッケル原子が多いという特異な性質がコマの広範囲で確認された。また、コマ中のガスの膨張速度が、同じ太陽距離にある太陽系の彗星の半分程度とみられることも示された。</description>
@@ -161,6 +161,13 @@
       <description>小惑星リュウグウ試料中の鉱物の分析から、リュウグウの母天体が45.65億年以上前に誕生したことがわかった。リュウグウが太陽系初期世代の炭素質微惑星の残骸であることを示唆する結果だ。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14650_ryugu</guid>
       <pubDate>Thu, 17 Sep 2026 10:08:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年9月29日 ナウシカアがうお座で衝</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14255_ph260929</link>
+      <description>2026年9月29日、小惑星ナウシカアがうお座で衝（太陽‐地球‐ナウシカアがまっすぐに並ぶ位置関係）となる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14255_ph260929</guid>
+      <pubDate>Thu, 17 Sep 2026 09:10:01 +0000</pubDate>
     </item>
     <item>
       <title>水星は形成から現在までに10km以上縮んでいた</title>
