@@ -6,21 +6,28 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:50:42 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>10月11日に東京で『TAMRON 12-20mm F2.8 クロストーク＆レンズ体験会』開催</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14631_TAMRON12_20mm</link>
+      <description>タムロンは、8月27日に発売した小型軽量な超広角ズームレンズ「12-20mm F2.8（Model A084）」の体験会を10月11日（日）にソニーPCLのクリエイティブ拠点「清澄白河BASE」で開催する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14631_TAMRON12_20mm</guid>
+      <pubDate>Sun, 11 Oct 2026 09:50:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>5群5枚ペッツバール式アポクロマート屈折望遠鏡、NAKOH「92GX」発売</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14666_NAKOH92GX</link>
+      <description>サイトロンジャパンが、口径92mm・F6.5のアポクロマート屈折望遠鏡、NAKOH「92GX」を新発売。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14666_NAKOH92GX</guid>
+      <pubDate>Fri, 09 Oct 2026 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>口径210mmのニュートン式反射望遠鏡、Askar「N210」発売</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14665_AskarN210</link>
       <description>サイトロンジャパンが、天体写真撮影向けブランド「Askar」の口径210mmのニュートン式反射望遠鏡「N210」を新発売。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14665_AskarN210</guid>
-      <pubDate>Fri, 09 Oct 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>5群5枚ペッツバール式アポクロマート屈折望遠鏡、NAKOH「92GX」発売</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14666_NAKOH92GX</link>
-      <description>サイトロンジャパンが、口径92mm・焦点距離598mm・F6.5のアポクロマート屈折望遠鏡、NAKOH「92GX」を新発売。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14666_NAKOH92GX</guid>
-      <pubDate>Fri, 09 Oct 2026 11:30:00 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:20:00 +0000</pubDate>
     </item>
     <item>
       <title>2026年10月12日 水星が東方最大離角</title>
@@ -149,13 +156,6 @@
       <pubDate>Mon, 28 Sep 2026 10:09:30 +0000</pubDate>
     </item>
     <item>
-      <title>10月11日に東京で『TAMRON 12-20mm F2.8 クロストーク＆レンズ体験会』開催</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14631_TAMRON12_20mm</link>
-      <description>タムロンは、8月27日に発売した小型軽量な超広角ズームレンズ「12-20mm F2.8（Model A084）」の体験会を10月11日（日）にソニーPCLのクリエイティブ拠点「清澄白河BASE」で開催する。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14631_TAMRON12_20mm</guid>
-      <pubDate>Mon, 28 Sep 2026 07:33:47 +0000</pubDate>
-    </item>
-    <item>
       <title>サイトロンジャパン「SJH-75UF」鏡筒 キャッシュバックキャンペーン</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14658_SJH-75UFcashback</link>
       <description>サイトロンジャパンは、10月1日（木）から12月23日（水）までの間に天体望遠鏡「SJH-75UF」を購入したお客様を対象に、現金5万円をキャッシュバックする「SJH-75UFキャッシュバックキャンペーン」を実施する。</description>
@@ -245,13 +245,6 @@
       <description>9月8日、いて座に今年4個目となる新星が出現した。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14648_nova_sgr</guid>
       <pubDate>Mon, 14 Sep 2026 10:03:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>リュウグウの砂に、生命材料につながる濃厚な塩水の痕跡を発見</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14641_ryugu</link>
-      <description>小惑星リュウグウの試料の分析から、アンモニアなどの窒素化合物が塩結晶の周辺に集まっている様子が明らかになった。母天体に高濃度塩水が存在し、生命材料につながる化学反応が起こりやすい環境だった可能性がある。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14641_ryugu</guid>
-      <pubDate>Thu, 10 Sep 2026 09:57:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
