@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 09:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:16:56 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>火星の海は約32億年前に消失、その後も局所的な湖環境が存在した可能性</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14725_mars</link>
+      <description>水槽実験で火星のデルタ地形の形成条件を明らかにし、その分布と形成年代を調べた研究から、約32億年前に火星北部の広大な海が消失したことが示され、それ以降にも局所的な湖環境が存在していた可能性も示唆された。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14725_mars</guid>
+      <pubDate>Tue, 13 Oct 2026 10:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>大きな減光が始まるか？最近のベテルギウスの変化</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14730_betelgeuse</link>
+      <description>オリオン座の1等星ベテルギウスが8月ごろから急激に光度を下げている。今後の変化に要注目だ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14730_betelgeuse</guid>
+      <pubDate>Tue, 13 Oct 2026 09:53:53 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月12日 水星が東方最大離角</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14259_ph261012</link>
