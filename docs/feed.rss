@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 10:27:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:36:19 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>世界初、天の川銀河中心の低エネルギーガンマ線放射を直接撮像</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14727_smile2</link>
+      <description>大気球実験で得られた低エネルギーガンマ線の観測データを、世界で初めて線形画像解析することで、天の川銀河中心の陽電子消滅ガンマ線スペクトルが高精度で求められた。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14727_smile2</guid>
+      <pubDate>Thu, 15 Oct 2026 11:36:19 +0000</pubDate>
+    </item>
     <item>
       <title>10月20日打ち上げのH3ロケット10号機と火星衛星探査機「MMX」を観測しよう</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14736_mmx</link>
