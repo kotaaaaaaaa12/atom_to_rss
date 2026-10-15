@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 13:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:27:39 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>10月20日打ち上げのH3ロケット10号機と火星衛星探査機「MMX」を観測しよう</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14736_mmx</link>
+      <description>10月20日の早朝に、火星衛星探査機「MMX」を搭載したH3ロケット10号機が打ち上げられる予定だ。日照で輝くロケットの機体や、火星に向け航行を開始するMMXの光点を観測してみよう。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14736_mmx</guid>
+      <pubDate>Thu, 15 Oct 2026 10:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>板垣さん山本さん中村さん、いて座に明るい新天体を発見</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14735_tcp_sgr</link>
+      <description>山形県の板垣公一さんが10月12日、いて座に約11等級の明るい新天体を発見した。愛知県の山本稔さん、三重県の中村祐二さんも独立発見している。現在のところ正体はわかっていない。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14735_tcp_sgr</guid>
+      <pubDate>Thu, 15 Oct 2026 09:32:01 +0000</pubDate>
+    </item>
     <item>
       <title>「アストロガイド星空年鑑2027」「星空カレンダーBOOK2027」予約受付中</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14734_calendars2027</link>
@@ -231,27 +245,6 @@
       <description>ペガスス座の銀河に出現した超新星SN 2026aaivが、発見時から5等級増光して12等台まで明るくなっている。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14651_sn2026aaiv</guid>
       <pubDate>Wed, 16 Sep 2026 10:01:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>アルマ望遠鏡で8年追跡、形成中の大質量連星系の三次元構造</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14644_iras07299</link>
-      <description>アルマ望遠鏡を用いた8年にわたる観測により、形成中の大質量連星系の三次元構造が明らかになった。連星は同じガス円盤から誕生したのではなく、成長中に近接遭遇して重力的に結びついたとみられる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14644_iras07299</guid>
-      <pubDate>Tue, 15 Sep 2026 10:17:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年9月27日 海王星がうお座で衝</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14254_ph260927</link>
-      <description>2026年9月27日、海王星がうお座で衝（太陽‐地球‐海王星がまっすぐに並ぶ位置関係）となる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14254_ph260927</guid>
-      <pubDate>Tue, 15 Sep 2026 09:15:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年9月25日 中秋の名月</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14253_ph260925</link>
-      <description>2026年の中秋の名月（十五夜）は9月25日で、満月の2日前となる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14253_ph260925</guid>
-      <pubDate>Tue, 15 Sep 2026 09:14:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
