@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 11:36:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:15:24 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年10月22日 オリオン座流星群が極大</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14262_ph261022</link>
+      <description>2026年10月22日、オリオン座流星群の活動が極大となる。10月21日の深夜から22日の明け方が見ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14262_ph261022</guid>
+      <pubDate>Fri, 16 Oct 2026 09:15:24 +0000</pubDate>
+    </item>
     <item>
       <title>世界初、天の川銀河中心の低エネルギーガンマ線放射を直接撮像</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14727_smile2</link>
@@ -238,20 +245,6 @@
       <description>2026年9月29日、小惑星ナウシカアがうお座で衝（太陽‐地球‐ナウシカアがまっすぐに並ぶ位置関係）となる。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14255_ph260929</guid>
       <pubDate>Thu, 17 Sep 2026 09:10:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>水星は形成から現在までに10km以上縮んでいた</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14645_mercury</link>
-      <description>水星表面の凹凸の度合いとしわ状の収縮地形とを全球的に比較した研究から、水星がこれまでに10km以上も収縮したことが明らかになった。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14645_mercury</guid>
-      <pubDate>Wed, 16 Sep 2026 10:15:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>12等級まで明るくなったペガスス座の超新星SN 2026aaiv</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14651_sn2026aaiv</link>
-      <description>ペガスス座の銀河に出現した超新星SN 2026aaivが、発見時から5等級増光して12等台まで明るくなっている。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14651_sn2026aaiv</guid>
-      <pubDate>Wed, 16 Sep 2026 10:01:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
