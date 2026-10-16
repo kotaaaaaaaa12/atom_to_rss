@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 09:15:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:22:39 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年10月17日 ベスタがくじら座で衝</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14261_ph261017</link>
+      <description>2026年10月17日、小惑星ベスタがくじら座で衝（太陽‐地球‐ベスタがまっすぐに並ぶ位置関係）となる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14261_ph261017</guid>
+      <pubDate>Fri, 16 Oct 2026 14:22:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>小質量の若い星の周りに、惑星材料となり得る分子の「カクテル」を発見</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14731_compass</link>
+      <description>アルマ望遠鏡による原始星の観測で、宇宙空間で初めて完全重水素化メタノールが検出された。また、惑星材料となり得る物質に豊富な分子が含まれていて、若い星の周りの化学環境が多様で活発であることを示す結果も得られた。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14731_compass</guid>
+      <pubDate>Fri, 16 Oct 2026 10:59:36 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月22日 オリオン座流星群が極大</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14262_ph261022</link>
@@ -112,13 +126,6 @@
       <description>2026年のノーベル物理学賞は、ニュートリノ観測施設「IceCube」への決定的な貢献と高エネルギーニュートリノ発見により、米・ウィスコンシン大学マディソン校教授のFrancis Halzenさんに贈られることが6日発表された。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14726_nobelprize</guid>
       <pubDate>Thu, 08 Oct 2026 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年10月17日 ベスタがくじら座で衝</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14261_ph261017</link>
-      <description>2026年10月17日、小惑星ベスタがくじら座で衝（太陽‐地球‐ベスタがまっすぐに並ぶ位置関係）となる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14261_ph261017</guid>
-      <pubDate>Thu, 08 Oct 2026 09:14:52 +0000</pubDate>
     </item>
     <item>
       <title>太古の火星では水蒸気と雨が生命材料分子の原料供給を左右</title>
