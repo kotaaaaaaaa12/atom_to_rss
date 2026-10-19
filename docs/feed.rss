@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 14:22:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:07:01 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>10月20日打ち上げのH3ロケット10号機と火星衛星探査機「MMX」を観測しよう</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14736_mmx</link>
+      <description>10月20日の早朝に、火星衛星探査機「MMX」を搭載したH3ロケット10号機が打ち上げられる予定だ。日照で輝くロケットの機体や、火星に向け航行を開始するMMXの光点を観測してみよう。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14736_mmx</guid>
+      <pubDate>Mon, 19 Oct 2026 15:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>太陽風の未知領域「ミクロとマクロの境界」で磁場のねじれが成長する新現象を発見</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14733_sun</link>
+      <description>太陽探査機「パーカー・ソーラー・プローブ」の観測データの分析から、太陽風中の磁場のねじれ構造が「ミクロ」と「マクロ」の境界という未知の領域で、より大きな構造へと成長する新現象が明らかになった。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14733_sun</guid>
+      <pubDate>Mon, 19 Oct 2026 10:28:28 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月17日 ベスタがくじら座で衝</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14261_ph261017</link>
@@ -35,13 +49,6 @@
       <description>大気球実験で得られた低エネルギーガンマ線の観測データを、世界で初めて線形画像解析することで、天の川銀河中心の陽電子消滅ガンマ線スペクトルが高精度で求められた。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14727_smile2</guid>
       <pubDate>Thu, 15 Oct 2026 11:36:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>10月20日打ち上げのH3ロケット10号機と火星衛星探査機「MMX」を観測しよう</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14736_mmx</link>
-      <description>10月20日の早朝に、火星衛星探査機「MMX」を搭載したH3ロケット10号機が打ち上げられる予定だ。日照で輝くロケットの機体や、火星に向け航行を開始するMMXの光点を観測してみよう。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14736_mmx</guid>
-      <pubDate>Thu, 15 Oct 2026 10:27:39 +0000</pubDate>
     </item>
     <item>
       <title>板垣さん山本さん中村さん、いて座に明るい新天体を発見</title>
