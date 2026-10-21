@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 10:04:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:40:44 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2027年の星空の全てを1冊で「アストロガイド星空年鑑2027」発売</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14739_ag2027</link>
+      <description>「アストロガイド星空年鑑2027」は1年の天文現象や星空の様子をオールカラーで紹介するムックです。シミュレーションソフトでの現象再現、プラネタリウム番組、スマホアプリとの連携などで2027年の星空を楽しみ尽くす一冊です。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14739_ag2027</guid>
+      <pubDate>Wed, 21 Oct 2026 09:40:44 +0000</pubDate>
+    </item>
     <item>
       <title>火星衛星探査機「MMX」の打ち上げ成功、約1年かけて火星圏へ</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14740_mmx</link>
@@ -22,13 +29,6 @@
       <description>星ナビ2026年10月号「ほんナビ」で紹介の5冊：📖はじめまして宇宙論📖電波天文学入門📖見えないブラックホールを見る📖ブラックホール天文学📖宇宙科学入門</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14741</guid>
       <pubDate>Tue, 20 Oct 2026 09:54:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>10月20日打ち上げのH3ロケット10号機と火星衛星探査機「MMX」を観測しよう</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14736_mmx</link>
-      <description>10月20日の早朝に、火星衛星探査機「MMX」を搭載したH3ロケット10号機が打ち上げられる予定だ。日照で輝くロケットの機体や、火星に向け航行を開始するMMXの光点を観測してみよう。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14736_mmx</guid>
-      <pubDate>Mon, 19 Oct 2026 15:07:01 +0000</pubDate>
     </item>
     <item>
       <title>太陽風の未知領域「ミクロとマクロの境界」で磁場のねじれが成長する新現象を発見</title>
@@ -64,6 +64,13 @@
       <description>大気球実験で得られた低エネルギーガンマ線の観測データを、世界で初めて線形画像解析することで、天の川銀河中心の陽電子消滅ガンマ線スペクトルが高精度で求められた。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14727_smile2</guid>
       <pubDate>Thu, 15 Oct 2026 11:36:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>10月20日打ち上げのH3ロケット10号機と火星衛星探査機「MMX」を観測しよう</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14736_mmx</link>
+      <description>10月20日の早朝に、火星衛星探査機「MMX」を搭載したH3ロケット10号機が打ち上げられる予定だ。日照で輝くロケットの機体や、火星に向け航行を開始するMMXの光点を観測してみよう。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14736_mmx</guid>
+      <pubDate>Thu, 15 Oct 2026 10:27:39 +0000</pubDate>
     </item>
     <item>
       <title>板垣さん山本さん中村さん、いて座に明るい新天体を発見</title>
