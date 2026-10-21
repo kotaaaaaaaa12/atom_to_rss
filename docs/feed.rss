@@ -6,8 +6,29 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 09:40:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:09:57 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年10月22日 オリオン座流星群が極大</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14262_ph261022</link>
+      <description>2026年10月22日、オリオン座流星群の活動が極大となる。10月21日の深夜から22日の明け方が見ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14262_ph261022</guid>
+      <pubDate>Wed, 21 Oct 2026 15:09:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>超新星残骸の磁場を観測で決定、粒子加速の限界が明らかに</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14737_rxj1713</link>
+      <description>超新星残骸RX J1713.7-3946の衝撃波上流の磁場の強さが、観測から初めて約10マイクロガウスと決定された。この磁場では現在、宇宙線の起源解明に重要なペタ電子ボルト級まで粒子を加速できないことがわかった。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14737_rxj1713</guid>
+      <pubDate>Wed, 21 Oct 2026 10:31:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>星空とつながる毎日を…「星空カレンダーBOOK2027」発売</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14743_calbook2027</link>
+      <description>季節ごとの星空写真が楽しめる「壁掛けカレンダー」が付いた冊子「星空カレンダーBOOK2027」が10月21日（水）に発売。1年間の天文現象ハイライト、12か月分の円星図と毎日の天文現象リストが載っています。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14743_calbook2027</guid>
+      <pubDate>Wed, 21 Oct 2026 10:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>2027年の星空の全てを1冊で「アストロガイド星空年鑑2027」発売</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14739_ag2027</link>
@@ -52,13 +73,6 @@
       <pubDate>Fri, 16 Oct 2026 10:59:36 +0000</pubDate>
     </item>
     <item>
-      <title>2026年10月22日 オリオン座流星群が極大</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14262_ph261022</link>
-      <description>2026年10月22日、オリオン座流星群の活動が極大となる。10月21日の深夜から22日の明け方が見ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14262_ph261022</guid>
-      <pubDate>Fri, 16 Oct 2026 09:15:24 +0000</pubDate>
-    </item>
-    <item>
       <title>世界初、天の川銀河中心の低エネルギーガンマ線放射を直接撮像</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14727_smile2</link>
       <description>大気球実験で得られた低エネルギーガンマ線の観測データを、世界で初めて線形画像解析することで、天の川銀河中心の陽電子消滅ガンマ線スペクトルが高精度で求められた。</description>
@@ -92,13 +106,6 @@
       <description>「宇宙の噴水」と呼ばれる天体から噴き出す双極ガス流の根元付近の構造が、メーザー観測により明らかになった。進化の最終段階に入った連星系とみられる天体の貴重な観測例となる。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14729_iras16552</guid>
       <pubDate>Wed, 14 Oct 2026 10:34:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年10月14日 パラスがくじら座で衝</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14260_ph261014</link>
-      <description>2026年10月14日、小惑星パラスがくじら座で衝（太陽‐地球‐パラスがまっすぐに並ぶ位置関係）となる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14260_ph261014</guid>
-      <pubDate>Wed, 14 Oct 2026 09:48:59 +0000</pubDate>
     </item>
     <item>
       <title>火星の海は約32億年前に消失、その後も局所的な湖環境が存在した可能性</title>
@@ -141,6 +148,13 @@
       <description>約36～38億年前の火星を対象とした光化学計算と全球気候モデルを組み合わせた解析から、生命材料分子の原料となるホルムアルデヒドの沈着量の分布が可視化され、火星全体で約100倍の地域差が存在していたことが示された。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14667_mars</guid>
       <pubDate>Tue, 06 Oct 2026 10:28:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年10月14日 パラスがくじら座で衝</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14260_ph261014</link>
+      <description>2026年10月14日、小惑星パラスがくじら座で衝（太陽‐地球‐パラスがまっすぐに並ぶ位置関係）となる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14260_ph261014</guid>
+      <pubDate>Tue, 06 Oct 2026 09:10:11 +0000</pubDate>
     </item>
     <item>
       <title>太陽の静穏領域の上空に潜む新たな磁場構造を気球観測で発見</title>
