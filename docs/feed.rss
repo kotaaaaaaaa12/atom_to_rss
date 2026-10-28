@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 10:28:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:20:47 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>金星大気のスーパーローテーションの長期変動を再現</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14749_venus</link>
+      <description>データ同化システムを用いた研究で、金星の大気が自転より速く周回する「スーパーローテーション」の長期的な風速の変動が再現され、観測のない高度も含めた大気の3次元構造が推定された。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14749_venus</guid>
+      <pubDate>Wed, 28 Oct 2026 10:20:47 +0000</pubDate>
+    </item>
     <item>
       <title>「爆食い」の巨大ブラックホールが生み出すジェットの起源に迫る</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14748_3c120</link>
@@ -303,20 +310,6 @@
       <description>9月28日、木星氷衛星探査機「ジュース」がインド洋上空8640kmの高度を通過し、2回目の地球スイングバイを完了した。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14660_juice</guid>
       <pubDate>Tue, 29 Sep 2026 10:11:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>アトラス彗星の特異な金属組成をコマの広範囲で確認</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14653_atlas</link>
-      <description>恒星間天体アトラス彗星の分光観測から、鉄・ニッケル原子が多いという特異な性質がコマの広範囲で確認された。また、コマ中のガスの膨張速度が、同じ太陽距離にある太陽系の彗星の半分程度とみられることも示された。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14653_atlas</guid>
-      <pubDate>Mon, 28 Sep 2026 10:09:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年10月5日 土星がくじら座で衝</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14256_ph261005</link>
-      <description>2026年10月5日、土星がくじら座で衝（太陽‐地球‐土星がまっすぐに並ぶ位置関係）となる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14256_ph261005</guid>
-      <pubDate>Mon, 28 Sep 2026 09:19:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
