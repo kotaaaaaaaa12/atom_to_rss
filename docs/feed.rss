@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 10:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 09:14:18 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年11月8日 細い月と金星が並ぶ</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14266_ph261108</link>
+      <description>2026年11月8日の明け方、東南東の低空で細い月と金星が並ぶ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14266_ph261108</guid>
+      <pubDate>Thu, 29 Oct 2026 09:14:18 +0000</pubDate>
+    </item>
     <item>
       <title>金星大気のスーパーローテーションの長期変動を再現</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14749_venus</link>
