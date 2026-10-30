@@ -6,8 +6,29 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 09:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:55:40 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年10月31日 ケレス食</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14263_ph261031</link>
+      <description>2026年10月31日の22時30分ごろから23時ごろ、月が準惑星ケレスを隠す食が起こる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14263_ph261031</guid>
+      <pubDate>Fri, 30 Oct 2026 14:55:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年11月2日 プレセペ星団食</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14264_ph261102</link>
+      <description>2026年11月2日の0時ごろから2時30分ごろ、月がかに座のプレセペ星団を隠す食が起こる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14264_ph261102</guid>
+      <pubDate>Fri, 30 Oct 2026 12:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>MAXIとXRISMの連携で増光中のX線連星の観測に成功</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14750_1a1118</link>
+      <description>X線連星の観測から、中性子星の強い磁場と伴星から降り積もる物質が影響を及ぼし合う領域の近くで、鉄輝線が放射されている可能性が示された。強磁場という極限環境における物質の振る舞いの理解につながると期待される成果だ。 </description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14750_1a1118</guid>
+      <pubDate>Fri, 30 Oct 2026 10:27:48 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月8日 細い月と金星が並ぶ</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14266_ph261108</link>
@@ -44,13 +65,6 @@
       <pubDate>Mon, 26 Oct 2026 09:15:02 +0000</pubDate>
     </item>
     <item>
-      <title>2026年11月2日 プレセペ星団食</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14264_ph261102</link>
-      <description>2026年11月2日の0時ごろから2時30分ごろ、月がかに座のプレセペ星団を隠す食が起こる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14264_ph261102</guid>
-      <pubDate>Mon, 26 Oct 2026 09:13:09 +0000</pubDate>
-    </item>
-    <item>
       <title>汎用スマート天体撮影コントローラーSky-Watcher「SYNLINK」発売</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14738_SYNLINK</link>
       <description>サイトロンジャパンから、天体望遠鏡ブランド「Sky-Watcher」より、メーカーの縛りなく使用可能なスマート天体撮影コントローラー「SYNLINK（シンリンク）」が新発売。
@@ -71,13 +85,6 @@
       <description>金星（未明～明け方）、火星（深夜～明け方）、木星（深夜～明け方）、土星（夕方～未明）／2日未明：プレセペ星団食／3日未明～明け方：月と火星、木星が接近／8日明け方：細い月と金星が並ぶ／10日ごろ未明～明け方：金星とスピカが大接近／16日ごろ深夜～明け方：火星と木星が大接近／21日：水星が西方最大離角／24日宵：プレアデス星団食／26日：天王星が衝／27日ごろ深夜～明け方：火星とレグルスが大接近／30日深夜～12月1日明け方：月と火星、木星が接近</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14747</guid>
       <pubDate>Fri, 23 Oct 2026 09:22:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年10月31日 ケレス食</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14263_ph261031</link>
-      <description>2026年10月31日の22時30分ごろから23時ごろ、月が準惑星ケレスを隠す食が起こる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14263_ph261031</guid>
-      <pubDate>Fri, 23 Oct 2026 09:12:03 +0000</pubDate>
     </item>
     <item>
       <title>惑星誕生現場のリング模様が示す、まだ見ぬ惑星と塵が自ら集まる仕組み</title>
@@ -296,20 +303,6 @@
       <description>星空を楽しむための月刊「星ナビ」2026年11月号は10月5日（月）発売です。公開天文台100周年がクライマックス。連載小説シリーズ“宙ノベ”もスタート！「JAXA×ラブライブ！スーパースター!!」コラボも進行中。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14662_hoshinavi</guid>
       <pubDate>Thu, 01 Oct 2026 09:59:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>リトル・レッド・ドットの赤さは過大質量ブラックホールの形成環境が生み出す？</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14652_lrd</link>
-      <description>初期宇宙の謎の天体「リトル・レッド・ドット」と「過大質量ブラックホール」は別々に議論されてきたが、これらを一つの形成過程として結びつけたシミュレーション研究の成果が発表された。さらに、リトル・レッド・ドット中のブラックホールが超大質量ブラックホールへ成長する道筋も示された。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14652_lrd</guid>
-      <pubDate>Wed, 30 Sep 2026 10:54:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>話題のミラ型変光星の近況</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14663_variable</link>
-      <description>初心者からベテランまで注目されている3つのミラ型変光星が見ごろを迎えている。この機会にぜひ観測してみよう。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14663_variable</guid>
-      <pubDate>Wed, 30 Sep 2026 09:40:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
