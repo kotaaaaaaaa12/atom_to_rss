@@ -6,14 +6,35 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 12:56:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:07:45 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
     <item>
-      <title>2026年11月2日 プレセペ星団食</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14264_ph261102</link>
-      <description>2026年11月2日の0時ごろから2時30分ごろ、月がかに座のプレセペ星団を隠す食が起こる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14264_ph261102</guid>
-      <pubDate>Fri, 30 Oct 2026 12:56:46 +0000</pubDate>
+      <title>「ステライメージ10」がAI画像処理ツールBXT/NXT/SXTに日本語連携対応</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14757_stlimg10</link>
+      <description>「ステライメージ10」10.0gアップデータを公開しました。世界中の天体写真ファンに使われている「RC ASTRO」のAI画像処理ツール（BXT、NXT、SXT）を、「ステライメージ10」から直接呼び出して使えるようになりました。アップグレード特別価格キャンペーンも実施中です。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14757_stlimg10</guid>
+      <pubDate>Mon, 02 Nov 2026 11:07:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>星ナビ12月号は「MMX、火星圏へ」と「サイトロンジャパン SJH-75UF」</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14752_hoshinavi</link>
+      <description>星空を楽しむための月刊「星ナビ」2026年12月号は11月5日（木）発売です。付録は毎年好評「星ナビカレンダー」。10月20日に打ち上げが成功しフォボスに向かう「MMX」にも注目です。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14752_hoshinavi</guid>
+      <pubDate>Mon, 02 Nov 2026 10:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年11月10日ごろ 金星とスピカが大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14267_ph261110</link>
+      <description>2026年11月上旬から下旬ごろ、未明から明け方の東南東の低空で金星とおとめ座の1等星スピカが大接近する。最接近は11月10日ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14267_ph261110</guid>
+      <pubDate>Mon, 02 Nov 2026 09:13:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>【特集】明けの明星 金星（2026～2027年）</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14759</link>
+      <description>2026年の11月ごろから2027年の6月ごろまで、明けの明星の金星が明け方の東の空に見えます。やや低めですが、夜明け空に明るく輝く様子はよく目立ちます。時おり細い月と並ぶ光景は、とくに美しい眺めです。早起きして観察しましょう。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14759</guid>
+      <pubDate>Mon, 02 Nov 2026 09:09:24 +0000</pubDate>
     </item>
     <item>
       <title>MAXIとXRISMの連携で増光中のX線連星の観測に成功</title>
@@ -56,6 +77,13 @@
       <description>2026年11月3日の未明から明け方、月と木星が大接近し、月と火星が接近する。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14265_ph261103</guid>
       <pubDate>Mon, 26 Oct 2026 09:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年11月2日 プレセペ星団食</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14264_ph261102</link>
+      <description>2026年11月2日の0時ごろから2時30分ごろ、月がかに座のプレセペ星団を隠す食が起こる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14264_ph261102</guid>
+      <pubDate>Mon, 26 Oct 2026 09:13:09 +0000</pubDate>
     </item>
     <item>
       <title>汎用スマート天体撮影コントローラーSky-Watcher「SYNLINK」発売</title>
