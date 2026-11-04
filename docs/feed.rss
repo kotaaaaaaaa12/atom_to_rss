@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 11:07:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:18:00 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>巨大宇宙嵐で地球近傍の宇宙空間が超高エネルギー電子の発生源に</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14751_barrier</link>
+      <description>2024年5月の巨大宇宙嵐の際、超高エネルギー電子がほとんど入り込めない「破れない壁」のすぐ内側で、電子が数メガ電子ボルトまで加速されていたことが、衛星「あらせ」の観測で明らかになった。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14751_barrier</guid>
+      <pubDate>Wed, 04 Nov 2026 10:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>「ステライメージ10」がAI画像処理ツールBXT/NXT/SXTに日本語連携対応</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14757_stlimg10</link>
@@ -268,13 +275,6 @@
       <description>2026年10月14日、小惑星パラスがくじら座で衝（太陽‐地球‐パラスがまっすぐに並ぶ位置関係）となる。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14260_ph261014</guid>
       <pubDate>Tue, 06 Oct 2026 09:10:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>太陽の静穏領域の上空に潜む新たな磁場構造を気球観測で発見</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14661_sun</link>
-      <description>気球を用いた太陽観測プロジェクト「Sunrise-III」で、太陽表面の静穏領域の上空に想定を超える入り組んだ磁場構造が潜んでいることが示された。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14661_sun</guid>
-      <pubDate>Mon, 05 Oct 2026 10:22:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
