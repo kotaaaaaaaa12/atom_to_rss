@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 10:21:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 09:18:53 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年11月13日 おうし座北流星群が極大</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14728_ph261113</link>
+      <description>2026年11月13日、おうし座北流星群の活動が極大となる。同時期に活動するおうし座南流星群と合わせて、11月中旬ごろに小規模な出現が見られる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14728_ph261113</guid>
+      <pubDate>Fri, 06 Nov 2026 09:18:53 +0000</pubDate>
+    </item>
     <item>
       <title>ブラックホールの振動モードが分かれたり消えたりする謎を解明</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14753_ringdown</link>
@@ -268,20 +275,6 @@
       <description>2026年10月17日、小惑星ベスタがくじら座で衝（太陽‐地球‐ベスタがまっすぐに並ぶ位置関係）となる。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14261_ph261017</guid>
       <pubDate>Thu, 08 Oct 2026 09:14:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>太古の火星では水蒸気と雨が生命材料分子の原料供給を左右</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14667_mars</link>
-      <description>約36～38億年前の火星を対象とした光化学計算と全球気候モデルを組み合わせた解析から、生命材料分子の原料となるホルムアルデヒドの沈着量の分布が可視化され、火星全体で約100倍の地域差が存在していたことが示された。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14667_mars</guid>
-      <pubDate>Tue, 06 Oct 2026 10:28:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年10月14日 パラスがくじら座で衝</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14260_ph261014</link>
-      <description>2026年10月14日、小惑星パラスがくじら座で衝（太陽‐地球‐パラスがまっすぐに並ぶ位置関係）となる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14260_ph261014</guid>
-      <pubDate>Tue, 06 Oct 2026 09:10:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
