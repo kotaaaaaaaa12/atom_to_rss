@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 10:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 10:21:47 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>ブラックホールの振動モードが分かれたり消えたりする謎を解明</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14753_ringdown</link>
+      <description>理論解析と数値計算により、回転ブラックホールが放つ重力波の振動モードが分かれたり消えたりするように見える現象の起源が明らかになった。これにより、約40年前から知られる重力波の未解決問題に決着がついた。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14753_ringdown</guid>
+      <pubDate>Thu, 05 Nov 2026 10:21:47 +0000</pubDate>
+    </item>
     <item>
       <title>巨大宇宙嵐で地球近傍の宇宙空間が超高エネルギー電子の発生源に</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14751_barrier</link>
