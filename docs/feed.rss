@@ -6,8 +6,36 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 09:18:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:54:22 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年11月8日 細い月と金星が並ぶ</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14266_ph261108</link>
+      <description>2026年11月8日の明け方、東南東の低空で細い月と金星が並ぶ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14266_ph261108</guid>
+      <pubDate>Fri, 06 Nov 2026 12:54:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>メタノールメーザー観測が示す、大質量星形成領域の複雑な磁場の兆候</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14754_zeeman</link>
+      <description>電波望遠鏡によるメタノールメーザーの長期観測から、大質量星形成領域の多数の天体でゼーマン分裂が検出された。一部の天体では、原始星を回転する円盤の影響で磁場がねじられ、複雑な磁場構造が形成されている可能性が示された。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14754_zeeman</guid>
+      <pubDate>Fri, 06 Nov 2026 11:27:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ガンマ線天文衛星「ニール・ゲーレルス・スウィフト」が約22年の運用を終了</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14760_swift</link>
+      <description>2004年11月に打ち上げられたNASAのガンマ線天文衛星「ニール・ゲーレルス・スウィフト」が約22年の運用を終え、11月4日に大気圏に再突入した。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14760_swift</guid>
+      <pubDate>Fri, 06 Nov 2026 09:48:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>板垣さん、かみのけ座の銀河に超新星を発見、今年4個目</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14761_sn2026ahvi</link>
+      <description>山形県の板垣公一さんが11月2日、かみのけ座の銀河に超新星SN 2026ahviを発見した。板垣さんの超新星発見は今年4個目、通算189個目。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14761_sn2026ahvi</guid>
+      <pubDate>Fri, 06 Nov 2026 09:21:31 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月13日 おうし座北流星群が極大</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14728_ph261113</link>
@@ -63,13 +91,6 @@
       <description>X線連星の観測から、中性子星の強い磁場と伴星から降り積もる物質が影響を及ぼし合う領域の近くで、鉄輝線が放射されている可能性が示された。強磁場という極限環境における物質の振る舞いの理解につながると期待される成果だ。 </description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14750_1a1118</guid>
       <pubDate>Fri, 30 Oct 2026 10:27:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年11月8日 細い月と金星が並ぶ</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14266_ph261108</link>
-      <description>2026年11月8日の明け方、東南東の低空で細い月と金星が並ぶ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14266_ph261108</guid>
-      <pubDate>Thu, 29 Oct 2026 09:14:18 +0000</pubDate>
     </item>
     <item>
       <title>金星大気のスーパーローテーションの長期変動を再現</title>
