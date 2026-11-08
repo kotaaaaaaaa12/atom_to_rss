@@ -6,15 +6,8 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 12:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:27:13 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
-    <item>
-      <title>2026年11月8日 細い月と金星が並ぶ</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14266_ph261108</link>
-      <description>2026年11月8日の明け方、東南東の低空で細い月と金星が並ぶ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14266_ph261108</guid>
-      <pubDate>Fri, 06 Nov 2026 12:54:22 +0000</pubDate>
-    </item>
     <item>
       <title>メタノールメーザー観測が示す、大質量星形成領域の複雑な磁場の兆候</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14754_zeeman</link>
@@ -91,6 +84,13 @@
       <description>X線連星の観測から、中性子星の強い磁場と伴星から降り積もる物質が影響を及ぼし合う領域の近くで、鉄輝線が放射されている可能性が示された。強磁場という極限環境における物質の振る舞いの理解につながると期待される成果だ。 </description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14750_1a1118</guid>
       <pubDate>Fri, 30 Oct 2026 10:27:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年11月8日 細い月と金星が並ぶ</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14266_ph261108</link>
+      <description>2026年11月8日の明け方、東南東の低空で細い月と金星が並ぶ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14266_ph261108</guid>
+      <pubDate>Thu, 29 Oct 2026 09:14:18 +0000</pubDate>
     </item>
     <item>
       <title>金星大気のスーパーローテーションの長期変動を再現</title>
@@ -268,20 +268,6 @@
       <description>オリオン座の1等星ベテルギウスが8月ごろから急激に光度を下げている。今後の変化に要注目だ。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14730_betelgeuse</guid>
       <pubDate>Tue, 13 Oct 2026 09:53:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>5群5枚ペッツバール式アポクロマート屈折望遠鏡、NAKOH「92GX」発売</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14666_NAKOH92GX</link>
-      <description>サイトロンジャパンが、口径92mm・F6.5のアポクロマート屈折望遠鏡、NAKOH「92GX」を新発売。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14666_NAKOH92GX</guid>
-      <pubDate>Fri, 09 Oct 2026 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>口径210mmのニュートン式反射望遠鏡、Askar「N210」発売</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14665_AskarN210</link>
-      <description>サイトロンジャパンが、天体写真撮影向けブランド「Askar」の口径210mmのニュートン式反射望遠鏡「N210」を新発売。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14665_AskarN210</guid>
-      <pubDate>Fri, 09 Oct 2026 10:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
