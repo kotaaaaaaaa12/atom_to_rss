@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 09:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 10:30:23 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>大マゼラン雲に長さ約30光年の巨大な「分子雲ジェット」を発見</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14755_lmcp3</link>
+      <description>大マゼラン雲のガンマ線連星「LMC P3」から約30光年の長さに伸びる分子雲ジェットが見つかった。このジェットのエネルギーは、連星をなすコンパクト天体周囲の降着円盤から生み出されている可能性がある。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14755_lmcp3</guid>
+      <pubDate>Mon, 09 Nov 2026 10:30:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>公式ブログ：いつでもどこでも、ステラナビゲータ。モバイル版の使い方をご紹介！</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14765_blog</link>
+      <description>天文シミュレーションアプリ「ステラナビゲータ・モバイル」をリリースしました！これからモバイル版の機能や使い方を少しずつご紹介していきます。第一弾として基本的な星図操作について解説します。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14765_blog</guid>
+      <pubDate>Mon, 09 Nov 2026 09:50:36 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月16日ごろ 火星と木星が大接近</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14268_ph261116</link>
