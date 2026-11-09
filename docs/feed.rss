@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 11:27:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:15:47 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年11月16日ごろ 火星と木星が大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14268_ph261116</link>
+      <description>2026年11月上旬から下旬ごろ、深夜から明け方の東から南東の空で火星と木星が大接近する。最接近は11月16日ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14268_ph261116</guid>
+      <pubDate>Mon, 09 Nov 2026 09:15:47 +0000</pubDate>
+    </item>
     <item>
       <title>メタノールメーザー観測が示す、大質量星形成領域の複雑な磁場の兆候</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14754_zeeman</link>
