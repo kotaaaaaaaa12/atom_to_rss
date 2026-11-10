@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 10:30:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 16:40:17 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年11月10日ごろ 金星とスピカが大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14267_ph261110</link>
+      <description>2026年11月上旬から下旬ごろ、未明から明け方の東南東の低空で金星とおとめ座の1等星スピカが大接近する。最接近は11月10日ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14267_ph261110</guid>
+      <pubDate>Mon, 09 Nov 2026 16:40:17 +0000</pubDate>
+    </item>
     <item>
       <title>大マゼラン雲に長さ約30光年の巨大な「分子雲ジェット」を発見</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14755_lmcp3</link>
@@ -84,13 +91,6 @@
       <description>星空を楽しむための月刊「星ナビ」2026年12月号は11月5日（木）発売です。付録は毎年好評「星ナビカレンダー」。10月20日に打ち上げが成功しフォボスに向かう「MMX」にも注目です。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14752_hoshinavi</guid>
       <pubDate>Mon, 02 Nov 2026 10:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年11月10日ごろ 金星とスピカが大接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14267_ph261110</link>
-      <description>2026年11月上旬から下旬ごろ、未明から明け方の東南東の低空で金星とおとめ座の1等星スピカが大接近する。最接近は11月10日ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14267_ph261110</guid>
-      <pubDate>Mon, 02 Nov 2026 09:13:38 +0000</pubDate>
     </item>
     <item>
       <title>【特集】明けの明星 金星（2026～2027年）</title>
