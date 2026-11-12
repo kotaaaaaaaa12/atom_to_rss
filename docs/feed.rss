@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 10:57:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:43:36 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>ブラックホールの間欠泉「宇宙ジェット」の発生予報が可能に</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14766_jet</link>
+      <description>複数の恒星質量ブラックホールで、ジェット噴出前に共通して見られる予兆現象が確かめられ、ジェットの発生を1～10日前に予測する手法が開発された。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14766_jet</guid>
+      <pubDate>Thu, 12 Nov 2026 10:43:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>日食ソフト「エクリプスナビゲータ」用日食要素を公開　2027年2月6日金環日食の月縁補正に対応</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14764_eclnav5</link>
+      <description>日食シミュレーション・撮影制御ソフト「エクリプスナビゲータ」用日食要素データを無償公開しました。2027年2月6日にチリやアルゼンチンなどで見られる金環日食を、月縁形状を補正して正確に再現します。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14764_eclnav5</guid>
+      <pubDate>Thu, 12 Nov 2026 01:21:46 +0000</pubDate>
+    </item>
     <item>
       <title>探査機「ヘラ」、史上初となる二重小惑星のランデブー探査を開始</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14763_hera</link>
@@ -296,20 +310,6 @@
       <description>「宇宙の噴水」と呼ばれる天体から噴き出す双極ガス流の根元付近の構造が、メーザー観測により明らかになった。進化の最終段階に入った連星系とみられる天体の貴重な観測例となる。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14729_iras16552</guid>
       <pubDate>Wed, 14 Oct 2026 10:34:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>火星の海は約32億年前に消失、その後も局所的な湖環境が存在した可能性</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14725_mars</link>
-      <description>水槽実験で火星のデルタ地形の形成条件を明らかにし、その分布と形成年代を調べた研究から、約32億年前に火星北部の広大な海が消失したことが示され、それ以降にも局所的な湖環境が存在していた可能性も示唆された。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14725_mars</guid>
-      <pubDate>Tue, 13 Oct 2026 10:16:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>大きな減光が始まるか？最近のベテルギウスの変化</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14730_betelgeuse</link>
-      <description>オリオン座の1等星ベテルギウスが8月ごろから急激に光度を下げている。今後の変化に要注目だ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14730_betelgeuse</guid>
-      <pubDate>Tue, 13 Oct 2026 09:53:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
