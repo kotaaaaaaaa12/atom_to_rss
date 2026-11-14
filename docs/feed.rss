@@ -6,15 +6,8 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 13 Nov 2026 13:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:50:25 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
-    <item>
-      <title>2026年11月13日 おうし座北流星群が極大</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14728_ph261113</link>
-      <description>2026年11月13日、おうし座北流星群の活動が極大となる。同時期に活動するおうし座南流星群と合わせて、11月中旬ごろに小規模な出現が見られる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14728_ph261113</guid>
-      <pubDate>Fri, 13 Nov 2026 13:27:18 +0000</pubDate>
-    </item>
     <item>
       <title>月の縦孔と地下空洞に潜む静電気環境、スパコンで解明</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14767_moon</link>
@@ -29,6 +22,13 @@
 </description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14769_AT_ENDURA</guid>
       <pubDate>Fri, 13 Nov 2026 10:02:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年11月13日 おうし座北流星群が極大</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14728_ph261113</link>
+      <description>2026年11月13日、おうし座北流星群の活動が極大となる。同時期に活動するおうし座南流星群と合わせて、11月中旬ごろに小規模な出現が見られる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14728_ph261113</guid>
+      <pubDate>Fri, 13 Nov 2026 09:27:18 +0000</pubDate>
     </item>
     <item>
       <title>2026年11月21日 水星が西方最大離角</title>
@@ -304,27 +304,6 @@
       <description>2026年10月22日、オリオン座流星群の活動が極大となる。10月21日の深夜から22日の明け方が見ごろ。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14262_ph261022</guid>
       <pubDate>Fri, 16 Oct 2026 09:15:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>世界初、天の川銀河中心の低エネルギーガンマ線放射を直接撮像</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14727_smile2</link>
-      <description>大気球実験で得られた低エネルギーガンマ線の観測データを、世界で初めて線形画像解析することで、天の川銀河中心の陽電子消滅ガンマ線スペクトルが高精度で求められた。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14727_smile2</guid>
-      <pubDate>Thu, 15 Oct 2026 11:36:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>10月20日打ち上げのH3ロケット10号機と火星衛星探査機「MMX」を観測しよう</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14736_mmx</link>
-      <description>10月20日の早朝に、火星衛星探査機「MMX」を搭載したH3ロケット10号機が打ち上げられる予定だ。日照で輝くロケットの機体や、火星に向け航行を開始するMMXの光点を観測してみよう。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14736_mmx</guid>
-      <pubDate>Thu, 15 Oct 2026 10:27:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>板垣さん山本さん中村さん、いて座に明るい新天体を発見</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14735_tcp_sgr</link>
-      <description>山形県の板垣公一さんが10月12日、いて座に約11等級の明るい新天体を発見した。愛知県の山本稔さん、三重県の中村祐二さんも独立発見している。現在のところ正体はわかっていない。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14735_tcp_sgr</guid>
-      <pubDate>Thu, 15 Oct 2026 09:32:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
