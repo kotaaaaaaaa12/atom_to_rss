@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 13 Nov 2026 10:50:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:03:44 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年11月16日ごろ 火星と木星が大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14268_ph261116</link>
+      <description>2026年11月上旬から下旬ごろ、深夜から明け方の東から南東の空で火星と木星が大接近する。最接近は11月16日ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14268_ph261116</guid>
+      <pubDate>Mon, 16 Nov 2026 09:03:44 +0000</pubDate>
+    </item>
     <item>
       <title>月の縦孔と地下空洞に潜む静電気環境、スパコンで解明</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14767_moon</link>
@@ -99,13 +106,6 @@
       <description>天文シミュレーションアプリ「ステラナビゲータ・モバイル」をリリースしました！これからモバイル版の機能や使い方を少しずつご紹介していきます。第一弾として基本的な星図操作について解説します。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14765_blog</guid>
       <pubDate>Mon, 09 Nov 2026 09:50:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年11月16日ごろ 火星と木星が大接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14268_ph261116</link>
-      <description>2026年11月上旬から下旬ごろ、深夜から明け方の東から南東の空で火星と木星が大接近する。最接近は11月16日ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14268_ph261116</guid>
-      <pubDate>Mon, 09 Nov 2026 09:15:47 +0000</pubDate>
     </item>
     <item>
       <title>メタノールメーザー観測が示す、大質量星形成領域の複雑な磁場の兆候</title>
@@ -290,20 +290,6 @@
       <description>太陽探査機「パーカー・ソーラー・プローブ」の観測データの分析から、太陽風中の磁場のねじれ構造が「ミクロ」と「マクロ」の境界という未知の領域で、より大きな構造へと成長する新現象が明らかになった。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14733_sun</guid>
       <pubDate>Mon, 19 Oct 2026 10:28:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>小質量の若い星の周りに、惑星材料となり得る分子の「カクテル」を発見</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14731_compass</link>
-      <description>アルマ望遠鏡による原始星の観測で、宇宙空間で初めて完全重水素化メタノールが検出された。また、惑星材料となり得る物質に豊富な分子が含まれていて、若い星の周りの化学環境が多様で活発であることを示す結果も得られた。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14731_compass</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年10月22日 オリオン座流星群が極大</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14262_ph261022</link>
-      <description>2026年10月22日、オリオン座流星群の活動が極大となる。10月21日の深夜から22日の明け方が見ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14262_ph261022</guid>
-      <pubDate>Fri, 16 Oct 2026 09:15:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
