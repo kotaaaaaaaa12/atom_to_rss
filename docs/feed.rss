@@ -6,8 +6,36 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 09:03:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 10:52:42 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>すばる望遠鏡が明かした、エンケ彗星の核の形状と温度</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14772_encke</link>
+      <description>すばる望遠鏡による中間赤外線観測データから、エンケ彗星の核の形状と表面温度が推定された。彗星の活動や軌道変化の理解に役立つ知見だ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14772_encke</guid>
+      <pubDate>Mon, 16 Nov 2026 10:52:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>日本の公開天文台100周年―11月21日に全国一斉「太陽系マラソン」</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14773_obs100th</link>
+      <description>いよいよクライマックス！ アニバーサリーイベントとして全国の天文台をつなぐ一斉観望会を実施。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14773_obs100th</guid>
+      <pubDate>Mon, 16 Nov 2026 10:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>極大に向かって増光していく、くじら座の変光星ミラ</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14775_mira</link>
+      <description>くじら座の胸元に光る長周期変光星のミラが、12月～1月に極大を迎えると予想されている。だんだん明るくなっていく様子を観察しよう。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14775_mira</guid>
+      <pubDate>Mon, 16 Nov 2026 09:37:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年11月24日 プレアデス星団食</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14270_ph261124</link>
+      <description>2026年11月24日の18時30分ごろから20時30分ごろ、月がおうし座のプレアデス星団を隠す食が起こる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14270_ph261124</guid>
+      <pubDate>Mon, 16 Nov 2026 09:14:59 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月16日ごろ 火星と木星が大接近</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14268_ph261116</link>
@@ -75,7 +103,7 @@
     <item>
       <title>2026年11月18日 しし座流星群が極大</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14745_ph261118</link>
-      <description>2025年11月18日、しし座流星群の活動が極大となる。18日の未明から明け方が見ごろだが数は少ない。</description>
+      <description>2026年11月18日、しし座流星群の活動が極大となる。18日の未明から明け方が見ごろだが数は少ない。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14745_ph261118</guid>
       <pubDate>Wed, 11 Nov 2026 09:10:35 +0000</pubDate>
     </item>
