@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 09:30:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:16:00 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>惑星探査機「ボイジャー1号」、地球から「1光日」の距離に到達</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14777_voyager1</link>
+      <description>1977年に打ち上げられたNASAの惑星探査機「ボイジャー1号」が11月18日19時16分ごろ（日本時間）に、人工物として初めて地球から「1光日」（約259億km）の距離に到達した。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14777_voyager1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>星空のもとで癒しのひと時　20日に「熟睡プラ寝たリウム」YouTube生配信</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14779_goodsleep</link>
+      <description>アストロアーツは11月20日（金）に、公式YouTubeチャンネルにて「熟睡プラ寝たリウム」を配信します。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14779_goodsleep</guid>
+      <pubDate>Wed, 18 Nov 2026 09:45:09 +0000</pubDate>
+    </item>
     <item>
       <title>ワンタップで星雲・星団から天の川まで撮影、スマート天体望遠鏡「Seestar S30 Plus」発売</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14771_SeestarS30Plus</link>
@@ -333,13 +347,6 @@
       <description>星ナビ2026年10月号「ほんナビ」で紹介の5冊：📖はじめまして宇宙論📖電波天文学入門📖見えないブラックホールを見る📖ブラックホール天文学📖宇宙科学入門</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14741</guid>
       <pubDate>Tue, 20 Oct 2026 09:54:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>太陽風の未知領域「ミクロとマクロの境界」で磁場のねじれが成長する新現象を発見</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14733_sun</link>
-      <description>太陽探査機「パーカー・ソーラー・プローブ」の観測データの分析から、太陽風中の磁場のねじれ構造が「ミクロ」と「マクロ」の境界という未知の領域で、より大きな構造へと成長する新現象が明らかになった。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14733_sun</guid>
-      <pubDate>Mon, 19 Oct 2026 10:28:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
