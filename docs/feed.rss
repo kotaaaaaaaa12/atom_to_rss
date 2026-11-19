@@ -6,8 +6,15 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 09:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:01:46 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>「はやぶさ2」が次の探査天体を変更、2028年に世界最高難易度フライバイへ</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14778_hayabusa2</link>
+      <description>探査機「はやぶさ2」がイオンエンジン不調のため、2031年に到着を予定していた小惑星「1998 KY26」への到達を断念し、2028年にD型小惑星「2015 BM510」をフライバイ探査することになった。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14778_hayabusa2</guid>
+      <pubDate>Thu, 19 Nov 2026 11:01:46 +0000</pubDate>
+    </item>
     <item>
       <title>天文シミュレーションソフト「ステラナビゲータ12」12.0jアップデータ公開　最新人工衛星データへの対応、および操作性・安定性の向上</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14776_stlnav12</link>
@@ -346,21 +353,6 @@
       <description>「アストロガイド星空年鑑2027」は1年の天文現象や星空の様子をオールカラーで紹介するムックです。シミュレーションソフトでの現象再現、プラネタリウム番組、スマホアプリとの連携などで2027年の星空を楽しみ尽くす一冊です。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14739_ag2027</guid>
       <pubDate>Wed, 21 Oct 2026 09:40:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>火星衛星探査機「MMX」の打ち上げ成功、約1年かけて火星圏へ</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14740_mmx</link>
-      <description>10月20日早朝、火星衛星探査機「MMX」を搭載したH3ロケット10号機が種子島宇宙センターから打ち上げられた。ロケットは計画通りに飛行し、MMXは所定の軌道に投入された。
-</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14740_mmx</guid>
-      <pubDate>Tue, 20 Oct 2026 10:04:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>天文書評＆新刊情報『ブラックホール天文学』『宇宙科学入門』など5冊</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14741</link>
-      <description>星ナビ2026年10月号「ほんナビ」で紹介の5冊：📖はじめまして宇宙論📖電波天文学入門📖見えないブラックホールを見る📖ブラックホール天文学📖宇宙科学入門</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14741</guid>
-      <pubDate>Tue, 20 Oct 2026 09:54:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
