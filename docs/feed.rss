@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 10:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:40:10 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>天文シミュレーションソフト「ステラナビゲータ12」12.0jアップデータ公開　最新人工衛星データへの対応、および操作性・安定性の向上</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14776_stlnav12</link>
+      <description>天文シミュレーションソフト「ステラナビゲータ12」の12.0jアップデータを無償公開しました。最新の人工衛星データに対応したほか、多くの改良と不具合の修正によって操作性・安定性を向上させています。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14776_stlnav12</guid>
+      <pubDate>Thu, 19 Nov 2026 09:40:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年11月27日ごろ 火星とレグルスが大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14272_ph261127</link>
+      <description>2026年11月中旬から12月上旬ごろ、深夜から明け方の東から南の空で火星としし座の1等星レグルスが大接近する。最接近は11月27日ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14272_ph261127</guid>
+      <pubDate>Thu, 19 Nov 2026 09:15:07 +0000</pubDate>
+    </item>
     <item>
       <title>惑星探査機「ボイジャー1号」、地球から「1光日」の距離に到達</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14777_voyager1</link>
@@ -36,13 +50,6 @@
       <description>2026年11月26日、天王星がおうし座で衝（太陽‐地球‐天王星がまっすぐに並ぶ位置関係）となる。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14271_ph261126</guid>
       <pubDate>Wed, 18 Nov 2026 09:10:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年11月18日 しし座流星群が極大</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14745_ph261118</link>
-      <description>2026年11月18日、しし座流星群の活動が極大となる。18日の未明から明け方が見ごろだが数は少ない。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14745_ph261118</guid>
-      <pubDate>Tue, 17 Nov 2026 19:26:17 +0000</pubDate>
     </item>
     <item>
       <title>昼夜の温度差が月のクレーター斜面を変えている可能性</title>
@@ -142,6 +149,13 @@
       <description>2024年10月に打ち上げられた探査機「ヘラ」が11月4日、二重小惑星「ディディモス」「ディモルフォス」に到着した。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14763_hera</guid>
       <pubDate>Wed, 11 Nov 2026 10:57:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年11月18日 しし座流星群が極大</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14745_ph261118</link>
+      <description>2026年11月18日、しし座流星群の活動が極大となる。18日の未明から明け方が見ごろだが数は少ない。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14745_ph261118</guid>
+      <pubDate>Wed, 11 Nov 2026 09:10:35 +0000</pubDate>
     </item>
     <item>
       <title>岩石惑星の材料となる鉱物が原始星近傍で蒸発している証拠</title>
