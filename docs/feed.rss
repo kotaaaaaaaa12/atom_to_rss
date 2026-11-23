@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 11:24:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:11:41 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年11月24日 プレアデス星団食</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14270_ph261124</link>
+      <description>2026年11月24日の18時30分ごろから20時30分ごろ、月がおうし座のプレアデス星団を隠す食が起こる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14270_ph261124</guid>
+      <pubDate>Tue, 24 Nov 2026 11:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年11月30日 月と火星、木星が接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14273_ph261130</link>
+      <description>2026年11月30日の深夜から12月1日の明け方、月と火星、木星が接近する。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14273_ph261130</guid>
+      <pubDate>Tue, 24 Nov 2026 09:16:31 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月21日 水星が西方最大離角</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14269_ph261121</link>
@@ -115,13 +129,6 @@
       <pubDate>Mon, 16 Nov 2026 09:37:33 +0000</pubDate>
     </item>
     <item>
-      <title>2026年11月24日 プレアデス星団食</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14270_ph261124</link>
-      <description>2026年11月24日の18時30分ごろから20時30分ごろ、月がおうし座のプレアデス星団を隠す食が起こる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14270_ph261124</guid>
-      <pubDate>Mon, 16 Nov 2026 09:14:59 +0000</pubDate>
-    </item>
-    <item>
       <title>2026年11月16日ごろ 火星と木星が大接近</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14268_ph261116</link>
       <description>2026年11月上旬から下旬ごろ、深夜から明け方の東から南東の空で火星と木星が大接近する。最接近は11月16日ごろ。</description>
@@ -142,13 +149,6 @@
 </description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14769_AT_ENDURA</guid>
       <pubDate>Fri, 13 Nov 2026 10:02:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年11月13日 おうし座北流星群が極大</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14728_ph261113</link>
-      <description>2026年11月13日、おうし座北流星群の活動が極大となる。同時期に活動するおうし座南流星群と合わせて、11月中旬ごろに小規模な出現が見られる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14728_ph261113</guid>
-      <pubDate>Fri, 13 Nov 2026 09:27:18 +0000</pubDate>
     </item>
     <item>
       <title>【特集】ふたご座流星群（2026年）</title>
@@ -235,6 +235,13 @@
       <pubDate>Fri, 06 Nov 2026 09:21:31 +0000</pubDate>
     </item>
     <item>
+      <title>2026年11月13日 おうし座北流星群が極大</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14728_ph261113</link>
+      <description>2026年11月13日、おうし座北流星群の活動が極大となる。同時期に活動するおうし座南流星群と合わせて、11月中旬ごろに小規模な出現が見られる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14728_ph261113</guid>
+      <pubDate>Fri, 06 Nov 2026 09:18:53 +0000</pubDate>
+    </item>
+    <item>
       <title>ブラックホールの振動モードが分かれたり消えたりする謎を解明</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14753_ringdown</link>
       <description>理論解析と数値計算により、回転ブラックホールが放つ重力波の振動モードが分かれたり消えたりするように見える現象の起源が明らかになった。これにより、約40年前から知られる重力波の未解決問題に決着がついた。</description>
@@ -317,35 +324,6 @@
       <description>2026年11月2日の0時ごろから2時30分ごろ、月がかに座のプレセペ星団を隠す食が起こる。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14264_ph261102</guid>
       <pubDate>Mon, 26 Oct 2026 09:13:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>汎用スマート天体撮影コントローラーSky-Watcher「SYNLINK」発売</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14738_SYNLINK</link>
-      <description>サイトロンジャパンから、天体望遠鏡ブランド「Sky-Watcher」より、メーカーの縛りなく使用可能なスマート天体撮影コントローラー「SYNLINK（シンリンク）」が新発売。
-</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14738_SYNLINK</guid>
-      <pubDate>Sat, 24 Oct 2026 04:03:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>極限宇宙探究の新時代へ、大口径ガンマ線望遠鏡アレイが完成</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14744_ctao-lst</link>
-      <description>チェレンコフ望遠鏡アレイ天文台の北半球サイトで、4基から成る大口径望遠鏡（LST）アレイが完成した。LSTは、ダークマターの正体や、高エネルギー粒子の加速メカニズムなどの解明に挑む。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14744_ctao-lst</guid>
-      <pubDate>Fri, 23 Oct 2026 10:46:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年11月の星空ガイド</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14747</link>
-      <description>金星（未明～明け方）、火星（深夜～明け方）、木星（深夜～明け方）、土星（夕方～未明）／2日未明：プレセペ星団食／3日未明～明け方：月と火星、木星が接近／8日明け方：細い月と金星が並ぶ／10日ごろ未明～明け方：金星とスピカが大接近／16日ごろ深夜～明け方：火星と木星が大接近／21日：水星が西方最大離角／24日宵：プレアデス星団食／26日：天王星が衝／27日ごろ深夜～明け方：火星とレグルスが大接近／30日深夜～12月1日明け方：月と火星、木星が接近</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14747</guid>
-      <pubDate>Fri, 23 Oct 2026 09:22:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年10月31日 ケレス食</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14263_ph261031</link>
-      <description>2026年10月31日の22時30分ごろから23時ごろ、月が準惑星ケレスを隠す食が起こる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14263_ph261031</guid>
-      <pubDate>Fri, 23 Oct 2026 09:12:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
