@@ -6,15 +6,8 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 11:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:40:08 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
-    <item>
-      <title>2026年11月24日 プレアデス星団食</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14270_ph261124</link>
-      <description>2026年11月24日の18時30分ごろから20時30分ごろ、月がおうし座のプレアデス星団を隠す食が起こる。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14270_ph261124</guid>
-      <pubDate>Tue, 24 Nov 2026 11:11:41 +0000</pubDate>
-    </item>
     <item>
       <title>世界最高分解能の天の川銀河シミュレーションに成功</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14780_milkyway</link>
@@ -141,6 +134,13 @@
       <description>くじら座の胸元に光る長周期変光星のミラが、12月～1月に極大を迎えると予想されている。だんだん明るくなっていく様子を観察しよう。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14775_mira</guid>
       <pubDate>Mon, 16 Nov 2026 09:37:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年11月24日 プレアデス星団食</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14270_ph261124</link>
+      <description>2026年11月24日の18時30分ごろから20時30分ごろ、月がおうし座のプレアデス星団を隠す食が起こる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14270_ph261124</guid>
+      <pubDate>Mon, 16 Nov 2026 09:14:59 +0000</pubDate>
     </item>
     <item>
       <title>2026年11月16日ごろ 火星と木星が大接近</title>
