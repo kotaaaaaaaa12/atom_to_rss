@@ -6,8 +6,16 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 10:40:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 10:37:32 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>日欧の探査機「ベピコロンボ」、水星に到着</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14788_bepicolombo</link>
+      <description>日本時間11月22日、日欧の水星探査機「ベピコロンボ」が水星に到着し、噴射が予定より早く終わるトラブルがあったものの、周回軌道に投入された。「みお」の分離は12月10日の予定だ。
+</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14788_bepicolombo</guid>
+      <pubDate>Wed, 25 Nov 2026 10:37:32 +0000</pubDate>
+    </item>
     <item>
       <title>世界最高分解能の天の川銀河シミュレーションに成功</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14780_milkyway</link>
