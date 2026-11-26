@@ -6,8 +6,22 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 09:22:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 17:30:55 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>2026年11月27日ごろ 火星とレグルスが大接近</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14272_ph261127</link>
+      <description>2026年11月中旬から12月上旬ごろ、深夜から明け方の東から南の空で火星としし座の1等星レグルスが大接近する。最接近は11月27日ごろ。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14272_ph261127</guid>
+      <pubDate>Thu, 26 Nov 2026 17:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>アルマ望遠鏡、分子雲に残るマイクロクエーサージェットの「化石」をとらえる</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14783_hessj1023</link>
+      <description>アルマ望遠鏡の観測で、ガンマ線源周辺の分子雲にジェットが刻んだ「化石」が多数見つかった。ジェットが暗くなった過去のブラックホールや中性子星を探す、新たな手がかりになる。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14783_hessj1023</guid>
+      <pubDate>Thu, 26 Nov 2026 10:53:52 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月26日 天王星がおうし座で衝</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14271_ph261126</link>
@@ -85,13 +99,6 @@
       <description>天文シミュレーションソフト「ステラナビゲータ12」の12.0jアップデータを無償公開しました。最新の人工衛星データに対応したほか、多くの改良と不具合の修正によって操作性・安定性を向上させています。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14776_stlnav12</guid>
       <pubDate>Thu, 19 Nov 2026 09:40:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年11月27日ごろ 火星とレグルスが大接近</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14272_ph261127</link>
-      <description>2026年11月中旬から12月上旬ごろ、深夜から明け方の東から南の空で火星としし座の1等星レグルスが大接近する。最接近は11月27日ごろ。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14272_ph261127</guid>
-      <pubDate>Thu, 19 Nov 2026 09:15:07 +0000</pubDate>
     </item>
     <item>
       <title>惑星探査機「ボイジャー1号」、地球から「1光日」の距離に到達</title>
@@ -318,13 +325,6 @@
       <description>データ同化システムを用いた研究で、金星の大気が自転より速く周回する「スーパーローテーション」の長期的な風速の変動が再現され、観測のない高度も含めた大気の3次元構造が推定された。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14749_venus</guid>
       <pubDate>Wed, 28 Oct 2026 10:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>「爆食い」の巨大ブラックホールが生み出すジェットの起源に迫る</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14748_3c120</link>
-      <description>XRISMなどによる観測から、「爆食い状態」にある超大質量ブラックホールで、冷たいガス円盤がブラックホールの手前で途切れて高温のプラズマ流に変わり、そのさらに内側からジェットが噴き出す構造が明らかになった。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14748_3c120</guid>
-      <pubDate>Tue, 27 Oct 2026 10:28:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
