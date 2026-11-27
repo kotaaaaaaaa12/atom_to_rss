@@ -6,8 +6,29 @@
     <description>AstroArts Topics - RSS Feed</description>
     <language>ja</language>
     <generator>atom_to_rss converter</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 17:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:33:42 +0000</lastBuildDate>
     <managingEditor>webmaster@astroarts.co.jp (AstroArts Topics)</managingEditor>
+    <item>
+      <title>エンケラドスの氷粒子が多様な化学組成を持つ理由</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14791_enceladus</link>
+      <description>土星の衛星エンケラドスから噴き出す氷粒子は、塩類の組成が粒子ごとに異なる。その理由として、地下海で生じた水滴が氷の亀裂の中でゆっくり凍って塩類が分かれ、その後に壁に衝突して砕けるという過程が提案された。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14791_enceladus</guid>
+      <pubDate>Fri, 27 Nov 2026 10:33:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>公式ブログ：ステラナビゲータ・モバイルのARで目の前の星空と星図を重ねよう！</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14793_blog</link>
+      <description>「あの明るい星は何だろう？」そんな疑問を解決する、ステラナビゲータ・モバイルのAR機能をご紹介します。AR補正機能を活用すれば初めて訪れた観望地で、薄明中の北極星の方位を特定することもできます。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14793_blog</guid>
+      <pubDate>Fri, 27 Nov 2026 10:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>【特集】火星（2027年2月20日 地球最接近）</title>
+      <link>https://www.astroarts.co.jp/article/hl/a/14795</link>
+      <description>2027年2月20日、約2年ぶりに火星と地球が最接近します。約1億kmまで近づきます。2026年12月から2027年5月ごろまで明るく見え、特徴的な赤っぽい輝きが楽しめます。しし座のレグルスの近くを行き来したり、木星と並んだりする光景も見ものです。見かけサイズは小さめですが、天体望遠鏡での観察やCMOSカメラでの撮影もしてみましょう。</description>
+      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14795</guid>
+      <pubDate>Fri, 27 Nov 2026 09:41:21 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月27日ごろ 火星とレグルスが大接近</title>
       <link>https://www.astroarts.co.jp/article/hl/a/14272_ph261127</link>
@@ -318,13 +339,6 @@
       <description>2026年11月8日の明け方、東南東の低空で細い月と金星が並ぶ。</description>
       <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14266_ph261108</guid>
       <pubDate>Thu, 29 Oct 2026 09:14:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>金星大気のスーパーローテーションの長期変動を再現</title>
-      <link>https://www.astroarts.co.jp/article/hl/a/14749_venus</link>
-      <description>データ同化システムを用いた研究で、金星の大気が自転より速く周回する「スーパーローテーション」の長期的な風速の変動が再現され、観測のない高度も含めた大気の3次元構造が推定された。</description>
-      <guid isPermaLink="false">https://www.astroarts.co.jp/article/hl/a/14749_venus</guid>
-      <pubDate>Wed, 28 Oct 2026 10:20:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
